@@ -16,7 +16,8 @@ This repository is for the team project **MSCA 31012 Data Engineering Platforms 
 * [state_mask & county_mask.csv](https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv): estimates of mask usage in the United States.  
 * [state_pop.csv & county_pop.csv](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html): annual estimates of population in the United States.
 * [state_insurance.csv](https://www.census.gov/data/tables/time-series/demo/income-poverty/cps-hi/hi-01.html): Health Insurance Coverage Status and Type of Coverage by State All Persons, including private (employer-based, direct-purchase) and public (Medicaid, Medicare, etc).  
-* [hosp_util.csv](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html): total inpatient bed, total ICU beds, percent of inpatient bed utilization, and percent of inpatients with covid, etc. 
+* [hosp_util.csv](https://www.census.gov/data/tables/time-series/demo/popest/2010s-counties-total.html): hospital utilization, including total inpatient bed, total ICU beds, percent of inpatient bed utilization, and percent of inpatients with covid, etc. 
+
 ![image](https://user-images.githubusercontent.com/49420323/128660642-9e11f37c-6a4f-4ced-966c-4678c7b303dd.png)
 
 ## Executive Summary
