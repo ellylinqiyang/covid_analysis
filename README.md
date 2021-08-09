@@ -22,3 +22,7 @@ This repository is for the team project **MSCA 31012 Data Engineering Platforms 
 
 ## Executive Summary
 For this project, we will look at Covid-19 data in the United States, both live and historical, to assess the effectiveness of governmental policies. Our data visualization and analysis will allow us to provide reflections on the use of data analytics in the process of tackling this challenge, as well as recommendations for future steps in preventing deaths.
+
+## Data Visualization
+* [Covid Analysis by County](https://public.tableau.com/app/profile/linqi.elly.yang/viz/CovidAnalysisbyCounty/County)
+* [Covid Analysis by State](https://public.tableau.com/app/profile/linqi.elly.yang/viz/CovidAnalysisbyState/State)
