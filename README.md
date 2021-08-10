@@ -11,6 +11,8 @@ This repository is for the team project **MSCA 31012 Data Engineering Platforms 
   * `Mengyang Yu`
   * `XiaoJing Zhang`
 
+## [Data Analysis](https://htmlpreview.github.io/?https://raw.githubusercontent.com/linqiellyyang/Covid-Analysis/main/Data%20Analysis.html)
+
 ## Data Visualization
 * [Covid Analysis by County](https://public.tableau.com/app/profile/linqi.elly.yang/viz/CovidAnalysisbyCounty/County)
 * [Covid Analysis by State](https://public.tableau.com/app/profile/linqi.elly.yang/viz/CovidAnalysisbyState/State)
