@@ -1,4 +1,4 @@
-# Covid Analysis I: State Performance
+# Covid Analysis I: State Response
 
 <img src='https://socialdigital.iadb.org/sites/default/files/2021-02/SPH_Newsletters_Blogs_NOV_GS-POST-copia-3.png' width='500' height='200'>
 
