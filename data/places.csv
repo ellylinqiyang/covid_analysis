@@ -1,0 +1,1370 @@
+,country,country_code,full_name,geo.bbox,geo.type,id,name,place_type
+0,United States,US,"Jefferson, VA","[-77.220862, 38.846423, -77.1548838, 38.879667]",Feature,604651199ea5b10a,Jefferson,city
+1,United States,US,"Turlock, CA","[-120.912851, 37.459822, -120.812106, 37.53937]",Feature,ee2cfc9feb061a08,Turlock,city
+2,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+3,United States,US,"Euclid, OH","[-81.552943, 41.5453355, -81.488014, 41.631584]",Feature,59ed3d5f720ebdf0,Euclid,city
+4,United States,US,"Nashua, NH","[-71.5749, 42.7000873, -71.4333342, 42.805852]",Feature,db6cee8d55fe4a29,Nashua,city
+5,United States,US,"Boynton Beach, FL","[-80.173447, 26.476484, -80.05236, 26.5904875]",Feature,005e3661711a29a9,Boynton Beach,city
+6,United States,US,"New Bern, NC","[-77.137333, 35.076669, -77.034161, 35.163741]",Feature,c1ef8962bc0b514d,New Bern,city
+7,Belgium,BE,"Brussels, Belgium","[4.3139889, 50.7963282, 4.4369472, 50.9137064]",Feature,0653bb913c88c1ea,Brussels,city
+8,United States,US,"Indian Harbour Beach, FL","[-80.612737, 28.114562, -80.574803, 28.172355]",Feature,ceb66dcdfed0c950,Indian Harbour Beach,city
+9,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+10,United States,US,"Johns Creek, GA","[-84.286258, 33.9855336, -84.0978785, 34.0904996]",Feature,00975c9578f9e109,Johns Creek,city
+11,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+12,United States,US,"Carmel, IN","[-86.241245, 39.926048, -86.023652, 40.000451]",Feature,eca35cbd75f0a1e6,Carmel,city
+13,United States,US,"Plumas Lake, CA","[-121.561363, 38.978053, -121.544054, 39.02631]",Feature,00aaaf1766b35652,Plumas Lake,city
+14,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+15,United States,US,"Denton, TX","[-97.187543, 33.1289384, -97.041998, 33.276053]",Feature,f77b0bf942a40070,Denton,city
+16,Turkey,TR,"İstanbul, Türkiye","[28.6321043, 40.8027337, 29.3783413, 41.2399073]",Feature,5e02a0f0d91c76d2,İstanbul,city
+17,Panama,PA,Panama,"[-83.051445, 7.20386, -77.13939, 9.6394858]",Feature,9d8ae4b0fac2036a,Panama,country
+18,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+19,United Kingdom,GB,"Milton Keynes, England","[-0.8604724, 51.973129, -0.667655, 52.094005]",Feature,17cc57fae415c45e,Milton Keynes,city
+20,Australia,AU,"Sydney, New South Wales","[150.520928608, -34.1183470085, 151.343020992, -33.578140996]",Feature,0073b76548e5984f,Sydney,city
+21,United States,US,"Greenville, SC","[-82.434848, 34.687331, -82.249689, 34.904552]",Feature,8eb7d0abedc4817b,Greenville,city
+22,Nigeria,NG,"Lagos, Nigeria","[2.7063037, 6.3703877, 4.350022, 6.6985461]",Feature,011a942e0a0e8fb2,Lagos,admin
+23,United States,US,"Palm Valley, FL","[-81.429238, 30.133473, -81.36028, 30.252933]",Feature,6416fd85ecf9cf8b,Palm Valley,city
+24,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+25,Ghana,GH,Trassaco,"[-0.11441014794960735, 5.656036188709232, -0.11441014794960735, 5.656036188709232]",Feature,07d9eb700fc86001,Trassaco,poi
+26,United Kingdom,GB,"Long Stratton, England","[1.2188896, 52.4793443, 1.2421681, 52.4964838]",Feature,2720fe8100e7fb9b,Long Stratton,city
+27,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+28,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+29,Canada,CA,"Riverview, New Brunswick","[-64.8915503, 46.023277, -64.729416, 46.091882]",Feature,4348e95318fc29ad,Riverview,city
+30,United States,US,"Bronx, NY","[-73.933612, 40.785365, -73.765271, 40.91533]",Feature,002e24c6736f069d,Bronx,city
+31,Fiji,FJ,Fiji,"[-180.0, -20.9786847, 180.0, -12.4787933]",Feature,2eca8f364790ebb5,Fiji,country
+32,Canada,CA,"Mississauga, Ontario","[-79.810142, 43.373074, -79.422004, 43.737414]",Feature,5c43cbdfce4d3247,Mississauga,city
+33,Nigeria,NG,Nigeria,"[2.6654364, 4.1974055, 14.6777951, 13.8881151]",Feature,59b27337f38d658b,Nigeria,country
+34,United States,US,"Miami Beach, FL","[-80.147162, 25.7613083, -80.1187628, 25.872623]",Feature,0121b92345f0e2b4,Miami Beach,city
+35,Bangladesh,BD,"Chittagong, Bangladesh","[90.5149005, 20.5888794, 92.6736679, 25.206204]",Feature,010646103d955cb2,Chittagong,admin
+36,United States,US,"Miramar, FL","[-80.4081604, 25.956799, -80.205968, 25.9954488]",Feature,5ca2cc5afa0894df,Miramar,city
+37,United States,US,"Calverton, MD","[-76.979663, 39.0312382, -76.918493, 39.078122]",Feature,6c3d68ae5ee7d2cc,Calverton,city
+38,United States,US,"Texas, USA","[-106.645646, 25.837092, -93.508131, 36.500695]",Feature,e0060cda70f5f341,Texas,admin
+39,United States,US,"Lancaster, CA","[-118.280798, 34.6309445, -118.045755, 34.740709]",Feature,04291149b14feb9d,Lancaster,city
+40,United States,US,"La Marque, TX","[-95.051744, 29.348343, -94.946934, 29.403387]",Feature,62d6ba41ace74599,La Marque,city
+41,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+42,United States,US,"Connecticut, USA","[-73.727776, 40.950918, -71.786994, 42.050588]",Feature,e86b380cfefcced5,Connecticut,admin
+43,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+44,United States,US,Living Word Fellowship Church,"[-95.45703125, 29.867996215820312, -95.45703125, 29.867996215820312]",Feature,0fc2f52613146000,Living Word Fellowship Church,poi
+45,United States,US,"Connecticut, USA","[-73.727776, 40.950918, -71.786994, 42.050588]",Feature,e86b380cfefcced5,Connecticut,admin
+46,United States,US,"Torrington, WY","[-104.239218, 42.053265, -104.1626554, 42.0883635]",Feature,af7cbcee0556cda2,Torrington,city
+47,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+48,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+49,United States,US,"Schoolcraft, MI","[-85.646573, 42.106832, -85.613252, 42.157497]",Feature,01060b0b1685749b,Schoolcraft,city
+50,Nigeria,NG,"Nnewi, Nigeria","[6.8137137, 5.957575, 6.9454295, 6.067032]",Feature,01120dd443936f70,Nnewi,city
+51,United States,US,"Tulsa, OK","[-96.0656278, 35.968624, -95.761656, 36.250159]",Feature,cb74aaf709812e0f,Tulsa,city
+52,United States,US,"Shaker Heights, OH","[-81.593675, 41.4570674, -81.50712, 41.492867]",Feature,33d5fac88acb8fa8,Shaker Heights,city
+53,Canada,CA,"Winnipeg, Manitoba","[-97.350366, 49.713679, -96.954987, 49.993932]",Feature,0811cf61cd9ea52f,Winnipeg,city
+54,United Kingdom,GB,"Guisborough, England","[-1.0876896, 54.51469, -1.039275, 54.543931]",Feature,3cd67b8c2f00aabe,Guisborough,city
+55,United States,US,"Concord, NC","[-80.766298, 35.321152, -80.4959648, 35.482811]",Feature,ec689e69912965d0,Concord,city
+56,United States,US,"Iowa City, IA","[-91.6110574, 41.599181, -91.463067, 41.6955258]",Feature,01e0b1c656c5070f,Iowa City,city
+57,Gibraltar,GI,Gibraltar,"[-5.3663194, 36.1087953, -5.3386837, 36.1559313]",Feature,7c779d96a8f0ca33,Gibraltar,city
+58,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+59,United States,US,"Union City, CA","[-122.096971, 37.56138, -121.992657, 37.6229383]",Feature,8af346f16e955392,Union City,city
+60,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+61,United Kingdom,GB,"Aberdeen, Scotland","[-2.1899763, 57.107695, -2.0641046, 57.2134174]",Feature,73cc26d418860ddd,Aberdeen,city
+62,India,IN,India,"[67.997691, 6.622513, 97.170672, 33.254896]",Feature,b850c1bfd38f30e0,India,country
+63,Canada,CA,"Hamilton, Ontario","[-80.248423, 43.050553, -79.578618, 43.470838]",Feature,4939b600461c30a4,Hamilton,city
+64,Canada,CA,"Burlington, Ontario","[-79.959313, 43.286245, -79.681617, 43.476547]",Feature,7059f9b9f31d4c4a,Burlington,city
+65,Indonesia,ID,"Kebayoran Lama, Indonesia","[106.770437, -6.297602, 106.805699, -6.202102]",Feature,d74066a958870db1,Kebayoran Lama,city
+66,United States,US,"East Haven, CT","[-72.900573, 41.242076, -72.817265, 41.3641295]",Feature,eef3c9f5ea16259a,East Haven,city
+67,United States,US,"Jefferson, NJ","[-74.594236, 40.9823878, -74.466844, 41.0803395]",Feature,00d9de4b090e389d,Jefferson,city
+68,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+69,Chile,CL,"Chillán, Chile","[-72.4710666, -36.7468019, -71.8624814, -36.5041483]",Feature,010a74892213c898,Chillán,city
+70,India,IN,"Chhattisgarh, India","[80.246826, 17.790092, 84.396581, 24.106163]",Feature,22370cbe98646150,Chhattisgarh,admin
+71,India,IN,"Ranchi, India","[84.869323, 23.00583, 85.902043, 23.715039]",Feature,042b5e87acf40437,Ranchi,city
+72,United Kingdom,GB,"Lewisham, London","[-0.074547, 51.414087, 0.038567, 51.494127]",Feature,58f909abfd95e133,Lewisham,city
+73,United States,US,"Arlington, VA","[-77.172219, 38.827378, -77.031779, 38.934311]",Feature,319ee7b36c9149da,Arlington,city
+74,United States,US,"Avondale, AZ","[-112.3579993, 33.3847847, -112.272424, 33.4938064]",Feature,0015d9147cee6907,Avondale,city
+75,Canada,CA,"Markham, Ontario","[-79.429128, 43.798004, -79.170217, 43.963385]",Feature,7d2673c3623fe492,Markham,city
+76,Sweden,SE,"Stockholm, Sweden","[17.7601322, 59.2271383, 18.1999856, 59.4402037]",Feature,d56c5babcffde8ef,Stockholm,city
+77,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+78,United States,US,"Oklahoma City, OK","[-97.768683, 35.290722, -97.335639, 35.674965]",Feature,9531d4e3bbafc09d,Oklahoma City,city
+79,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+80,United States,US,"Kenner, LA","[-90.285434, 29.969126, -90.221258, 30.049577]",Feature,6e5c7d7cfdf8a6b7,Kenner,city
+81,India,IN,"Bengaluru, India","[77.373474, 12.919037, 77.739371, 13.231381]",Feature,1b8680cd52a711cb,Bengaluru,city
+82,United States,US,"Tempe, AZ","[-111.979047, 33.3199453, -111.877237, 33.465823]",Feature,7cb7440bcf83d464,Tempe,city
+83,Malaysia,MY,"Kajang, Selangor","[101.7180352, 2.868785, 101.8223267, 3.0293183]",Feature,f7f8f502b090e579,Kajang,city
+84,United States,US,"St Louis, MO","[-90.3205158, 38.5331934, -90.175132, 38.774349]",Feature,0570f015c264cbd9,St Louis,city
+85,United States,US,"Sienna Plantation, TX","[-95.546917, 29.473466, -95.486207, 29.511206]",Feature,004b5a825b5fa14b,Sienna Plantation,city
+86,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+87,United States,US,"Texas, USA","[-106.645646, 25.837092, -93.508131, 36.500695]",Feature,e0060cda70f5f341,Texas,admin
+88,United States,US,"Bethel, WA","[-122.644786, 47.446118, -122.586254, 47.5049948]",Feature,01db6a596e916e39,Bethel,city
+89,United States,US,"Newton, MA","[-71.270426, 42.283041, -71.156939, 42.367744]",Feature,b76630ca2b2c4158,Newton,city
+90,Sri Lanka,LK,Sri Lanka,"[79.6505263, 5.9213829, 81.8787816, 9.8359375]",Feature,173c2bb9d42baaa5,Sri Lanka,country
+91,United States,US,"Miami, FL","[-80.321683, 25.7090404, -80.144974, 25.855667]",Feature,04cb31bae3b3af93,Miami,city
+92,United Kingdom,GB,"Kingston upon Thames, London","[-0.3229167, 51.3428601, -0.234011, 51.437266]",Feature,65b23b0045f450f6,Kingston upon Thames,city
+93,United States,US,Cyrus Greene Park,"[-82.43653947213527, 27.98012918232675, -82.43653947213527, 27.98012918232675]",Feature,07d9d2ca2cc82000,Cyrus Greene Park,poi
+94,United States,US,"Conroe, TX","[-95.679001, 30.23105, -95.3972667, 30.443978]",Feature,361610d5aa1f6719,Conroe,city
+95,United States,US,"Torrance, CA","[-118.3940862, 33.7804411, -118.308349, 33.886988]",Feature,c1e1a49e92ce1ba0,Torrance,city
+96,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+97,Portugal,PT,"Oporto, Portugal","[-8.6912275, 41.1383457, -8.5526, 41.1859375]",Feature,b5f9b1150985d719,Oporto,city
+98,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+99,United Kingdom,GB,"Leeds, England","[-1.706057, 53.7363694, -1.424923, 53.867543]",Feature,6863fd050de21120,Leeds,city
+100,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+101,United Kingdom,GB,"Gainsborough, England","[-0.7848906, 53.377614, -0.743859, 53.409173]",Feature,15b8852319fbe008,Gainsborough,city
+102,Canada,CA,"Québec, Canada","[-71.548521, 46.730765, -71.133596, 46.980949]",Feature,23b629b33fba1676,Québec,city
+103,United States,US,"Lehighton, PA","[-75.732263, 40.819082, -75.700365, 40.842103]",Feature,32ef93847fb7a1cb,Lehighton,city
+104,United States,US,"Missouri, USA","[-95.774704, 35.995476, -89.098843, 40.613641]",Feature,2526edd24c06e60c,Missouri,admin
+105,United States,US,"Mullica Hill, NJ","[-75.268797, 39.7086877, -75.180206, 39.7725969]",Feature,f518107274776950,Mullica Hill,city
+106,United States,US,"Piedmont, CA","[-122.2493425, 37.812297, -122.210097, 37.832846]",Feature,b8afb4f7aef647af,Piedmont,city
+107,Canada,CA,"Ottawa, Ontario","[-76.353876, 44.961937, -75.246407, 45.5356446]",Feature,38d5974e82ed1a6c,Ottawa,city
+108,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+109,United States,US,"Gleneagle, CO","[-104.8474461, 39.0272851, -104.810682, 39.056623]",Feature,472859b07b6dc7b2,Gleneagle,city
+110,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+111,United States,US,"Fruitvale, CO","[-108.501152, 39.077526, -108.458107, 39.107799]",Feature,81003e4ed5ba88bf,Fruitvale,city
+112,United States,US,"Clyde, TX","[-99.52583, 32.386864, -99.4548086, 32.418318]",Feature,df0ee5d2715f7dc6,Clyde,city
+113,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+114,United States,US,"Ohio, USA","[-84.8203089, 38.403186, -80.518626, 42.327133]",Feature,de599025180e2ee7,Ohio,admin
+115,Republic of the Philippines,PH,"Quezon City, National Capital Region","[120.989705, 14.5893763, 121.1357656, 14.7766484]",Feature,006523c50dfe9086,Quezon City,city
+116,Chile,CL,"Chillán, Chile","[-72.4710666, -36.7468019, -71.8624814, -36.5041483]",Feature,010a74892213c898,Chillán,city
+117,India,IN,"Chirayinkil, India","[76.672251, 8.619294, 76.934992, 8.859548]",Feature,25a8e79ac273e6cf,Chirayinkil,city
+118,United States,US,"Prospect Park, NJ","[-74.1810332, 40.929923, -74.166786, 40.946686]",Feature,edef0d36b87755e9,Prospect Park,city
+119,United States,US,"Kansas, USA","[-102.051769, 36.9931101, -94.588081, 40.003282]",Feature,27c45d804c777999,Kansas,admin
+120,Uganda,UG,"Kampala, Uganda","[32.4166234, 0.1648531, 32.7216969, 0.4136818]",Feature,000c69ad123213a8,Kampala,admin
+121,Australia,AU,"Ceduna, South Australia","[133.64271824, -32.152244172, 133.716878816, -32.1065249925]",Feature,00354af064ef0d92,Ceduna,city
+122,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+123,Chile,CL,"Lolol, Chile","[-71.8236616, -34.936656, -71.4757473, -34.6327095]",Feature,01f0ac9428d306ac,Lolol,city
+124,United States,US,"Chappaqua, NY","[-73.83157, 41.138796, -73.729066, 41.241611]",Feature,009992f3220547c9,Chappaqua,city
+125,United States,US,"Baltimore, MD","[-76.7115205, 39.197211, -76.529443, 39.372215]",Feature,c0b8e8dc81930292,Baltimore,city
+126,United States,US,"Irondequoit, NY","[-77.623126, 43.166743, -77.521784, 43.256791]",Feature,31bfc1f1d5544e1b,Irondequoit,city
+127,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+128,Nigeria,NG,"Kaduna, Nigeria","[7.3566227, 10.4252617, 7.4880222, 10.5972283]",Feature,006c6743642cb09c,Kaduna,city
+129,United States,US,"Mullica Hill, NJ","[-75.268797, 39.7086877, -75.180206, 39.7725969]",Feature,f518107274776950,Mullica Hill,city
+130,Republic of the Philippines,PH,"Talisay City, Central Visayas","[123.7722811, 10.2343911, 123.8736671, 10.3389809]",Feature,00370a296d59c6a3,Talisay City,city
+131,United States,US,United States,"[-179.231086, 13.182335, 179.859685, 71.434357]",Feature,96683cc9126741d1,United States,country
+132,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+133,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+134,United States,US,"Atlanta, GA","[-84.576827, 33.6475029, -84.289385, 33.8868859]",Feature,8173485c72e78ca5,Atlanta,city
+135,United Kingdom,GB,"Borehamwood, East","[-0.297848, 51.640831, -0.249317, 51.6824121]",Feature,1577f4760b8bb0b3,Borehamwood,city
+136,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+137,Republic of the Philippines,PH,"Cebu City, Central Visayas","[123.7647381, 10.2594754, 123.9287057, 10.4901895]",Feature,00ca4cd1517ddd94,Cebu City,city
+138,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+139,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+140,South Africa,ZA,"Blue Downs, South Africa","[18.6247796, -34.0124945, 18.7273138, -33.9480826]",Feature,6444d281acdd5f98,Blue Downs,city
+141,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+142,Canada,CA,"Edmonton, Alberta","[-113.71368, 53.395531, -113.271555, 53.7161084]",Feature,6a6d896ba1cb5dc4,Edmonton,city
+143,United States,US,"Boston, MA","[-71.191421, 42.227797, -70.986004, 42.399542]",Feature,67b98f17fdcf20be,Boston,city
+144,Trinidad and Tobago,TT,Trinidad and Tobago,"[-61.9305415, 10.0424194, -60.4930236, 11.3585325]",Feature,47bf5243296fa7e3,Trinidad and Tobago,country
+145,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+146,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+147,United States,US,"Berkeley, CA","[-122.324818, 37.8459532, -122.234225, 37.905738]",Feature,5ef5b7f391e30aff,Berkeley,city
+148,United States,US,"Linton Hall, VA","[-77.622033, 38.7170968, -77.534718, 38.78464]",Feature,000ab6b1404a5cd8,Linton Hall,city
+149,India,IN,"Kolkata, India","[88.094457, 22.269493, 88.610027, 22.955918]",Feature,70957ac3123b3249,Kolkata,city
+150,South Africa,ZA,"Cape Town, South Africa","[18.3180332, -34.35839, 18.6600898, -33.8849254]",Feature,8b9ec16fdc0d7e55,Cape Town,city
+151,United States,US,"Miami Beach, FL","[-80.147162, 25.7613083, -80.1187628, 25.872623]",Feature,0121b92345f0e2b4,Miami Beach,city
+152,United States,US,"Lakeside, FL","[-81.809243, 30.100059, -81.721169, 30.18923]",Feature,86aaf36aee0e8a2c,Lakeside,city
+153,United Kingdom,GB,"Poplar, London","[-0.080028, 51.48432, 0.009989, 51.545341]",Feature,08be9e4ebe3d037d,Poplar,city
+154,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+155,United States,US,"Seattle, WA","[-122.436232, 47.4953154, -122.2249728, 47.734319]",Feature,300bcc6e23a88361,Seattle,city
+156,United States,US,"Garyville, LA","[-90.666226, 30.036707, -90.588453, 30.0763878]",Feature,6e0f5b9d64e80a06,Garyville,city
+157,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+158,United States,US,"Lakewood, OH","[-81.8375, 41.4632453, -81.768603, 41.49759]",Feature,888482aa70a3bc61,Lakewood,city
+159,United States,US,"New York, USA","[-79.76259, 40.477383, -71.777492, 45.015851]",Feature,94965b2c45386f87,New York,admin
+160,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+161,United States,US,"East Los Angeles, CA","[-118.192945, 34.008017, -118.126513, 34.062578]",Feature,67571a7baaa5906b,East Los Angeles,city
+162,United States,US,"Jax Naval Air Station, FL","[-81.708006, 30.1962309, -81.6590257, 30.2451195]",Feature,2db5fb03ed3382f3,Jax Naval Air Station,neighborhood
+163,United States,US,"Baltimore, MD","[-76.7115205, 39.197211, -76.529443, 39.372215]",Feature,c0b8e8dc81930292,Baltimore,city
+164,Ghana,GH,"Tema, Ghana","[-0.0817078, 5.613502, 0.0437508, 5.7925418]",Feature,01a4a1e153e55b20,Tema,city
+165,United States,US,"Scarborough, ME","[-70.4012143, 43.542566, -70.270921, 43.636249]",Feature,f39a803949cd2255,Scarborough,city
+166,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+167,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+168,Republic of the Philippines,PH,"Quezon City, National Capital Region","[120.989705, 14.5893763, 121.1357656, 14.7766484]",Feature,006523c50dfe9086,Quezon City,city
+169,United States,US,"La Vergne, TN","[-86.615589, 35.965278, -86.506446, 36.053789]",Feature,5b30c2de42727ec7,La Vergne,city
+170,Indonesia,ID,"Banten, Indonesia","[105.099716, -6.9997, 106.7778, -5.875858]",Feature,6c8aa00f3ecfda7f,Banten,admin
+171,Trinidad and Tobago,TT,Trinidad and Tobago,"[-61.9305415, 10.0424194, -60.4930236, 11.3585325]",Feature,47bf5243296fa7e3,Trinidad and Tobago,country
+172,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+173,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+174,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+175,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+176,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+177,United States,US,"Winchester, VA","[-78.201069, 39.13086, -78.1376541, 39.204922]",Feature,b4add85f41a3e371,Winchester,city
+178,United States,US,"Nashville, TN","[-87.022482, 35.9945681, -86.560616, 36.405448]",Feature,00ab941b685334e3,Nashville,city
+179,United States,US,"Boca Raton, FL","[-80.2039913, 26.320692, -80.065981, 26.427259]",Feature,d1cd39353c51904d,Boca Raton,city
+180,United States,US,"Palm Coast, FL","[-81.279617, 29.424649, -81.158741, 29.627243]",Feature,6613abf67d2b0d39,Palm Coast,city
+181,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+182,United States,US,"Kirkland, WA","[-122.240397, 47.642154, -122.1634125, 47.718484]",Feature,ba4471e5bc687736,Kirkland,city
+183,United States,US,"Richmond, IN","[-84.976985, 39.793313, -84.813667, 39.8878303]",Feature,3684a9592c803ad1,Richmond,city
+184,United States,US,"Taylor, MI","[-83.308978, 42.181294, -83.228111, 42.269861]",Feature,a9eb1b07c3864593,Taylor,city
+185,India,IN,Indore,"[75.833405, 22.643976, 75.833405, 22.643976]",Feature,0c2bbf4c1dd5c000,Indore,poi
+186,United States,US,"Enterprise, NV","[-115.316075, 35.9607531, -115.152796, 36.0768564]",Feature,009d3c3d41dbb00e,Enterprise,city
+187,United States,US,"Fort Worth, TX","[-97.538285, 32.569477, -97.033542, 32.990456]",Feature,42e46bc3663a4b5f,Fort Worth,city
+188,Ghana,GH,"Tema, Ghana","[-0.0817078, 5.613502, 0.0437508, 5.7925418]",Feature,01a4a1e153e55b20,Tema,city
+189,United Kingdom,GB,"Islington, London","[-0.1420579, 51.5185518, -0.076305, 51.575301]",Feature,544762ebf7fda780,Islington,city
+190,United States,US,"Andover, MA","[-71.255046, 42.5982372, -71.075953, 42.700233]",Feature,00a4b217142e93d0,Andover,city
+191,Kingdom of Saudi Arabia,SA,"Riyadh, Kingdom of Saudi Arabia","[46.3043976, 24.3320675, 47.0657557, 25.1118193]",Feature,01bf5c1e56ac186d,Riyadh,city
+192,United States,US,"San Antonio, TX","[-98.778559, 29.141956, -98.302744, 29.693046]",Feature,3df4f427b5a60fea,San Antonio,city
+193,United States,US,"Mesa, AZ","[-111.894548, 33.306275, -111.5805834, 33.505234]",Feature,44d207663001f00b,Mesa,city
+194,United States,US,"Baton Rouge, LA","[-91.218994, 30.354161, -90.962605, 30.5640391]",Feature,c7ef5f3368b68777,Baton Rouge,city
+195,Singapore,SG,"North-East Region, Singapore","[103.817832999913, 1.33435500006012, 103.931418138871, 1.43204147194424]",Feature,5f1f473ed6455f55,North-East Region,admin
+196,United States,US,"South Carolina, USA","[-83.353955, 32.04683, -78.499301, 35.215449]",Feature,6057f1e35bcc6c20,South Carolina,admin
+197,United States,US,"Miami, FL","[-80.321683, 25.7090404, -80.144974, 25.855667]",Feature,04cb31bae3b3af93,Miami,city
+198,United States,US,"Rancho Palos Verdes, CA","[-118.418623, 33.722004, -118.301098, 33.795538]",Feature,905627646db90fef,Rancho Palos Verdes,city
+199,United States,US,"Katy, TX","[-95.87417, 29.7367727, -95.774936, 29.8312188]",Feature,c484d6c5cd72beb0,Katy,city
+200,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+201,Vietnam,VN,"Lào Cai, Vietnam","[103.531033, 21.874941, 104.631176, 22.844625]",Feature,00bb14060f3ca228,Lào Cai,admin
+202,Nigeria,NG,"Victoria Island, Nigeria","[3.4023218, 6.3962643, 3.6013694, 6.4867971]",Feature,01ed1f9a43bfb9bd,Victoria Island,city
+203,United States,US,Avila's El Ranchito,"[-117.85226451025522, 33.78625200232664, -117.85226451025522, 33.78625200232664]",Feature,07d9efe9d1885000,Avila's El Ranchito,poi
+204,Portugal,PT,"Oporto, Portugal","[-8.6912275, 41.1383457, -8.5526, 41.1859375]",Feature,b5f9b1150985d719,Oporto,city
+205,South Africa,ZA,"Mafikeng, South Africa","[25.4948307, -26.0043449, 25.8154987, -25.7422886]",Feature,150e1ec07e4e2fca,Mafikeng,city
+206,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+207,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+208,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+209,Pakistan,PK,"Punjab, Pakistan","[69.328873, 27.708226, 75.382124, 34.019989]",Feature,00cc0d5640394308,Punjab,admin
+210,United States,US,"Wichita, KS","[-97.5349059, 37.562483, -97.152924, 37.80531]",Feature,1661ada9b2b18024,Wichita,city
+211,United States,US,"Arizona, USA","[-114.818269, 31.3322463, -109.0451527, 37.004261]",Feature,a612c69b44b2e5da,Arizona,admin
+212,United States,US,"Salinas, CA","[-121.6919801, 36.643802, -121.5905572, 36.7344965]",Feature,fa37e818b629e4ea,Salinas,city
+213,United States,US,"West Miami, FL","[-80.303899, 25.7479709, -80.2875935, 25.763563]",Feature,c53fe057eaa0a64d,West Miami,city
+214,United Kingdom,GB,"Poplar, London","[-0.080028, 51.48432, 0.009989, 51.545341]",Feature,08be9e4ebe3d037d,Poplar,city
+215,Republic of Korea,KR,"Guro-gu, Republic of Korea","[126.836926216961, 37.4648784792737, 126.901973645362, 37.5185204808273]",Feature,01e66f462314cc0b,Guro-gu,city
+216,Pakistan,PK,"Sindh, Pakistan","[66.654132, 23.703272, 71.124185, 28.529442]",Feature,0120615153b21abb,Sindh,admin
+217,Canada,CA,"Lincoln, Ontario","[-79.514941, 43.092183, -79.310704, 43.4118]",Feature,78fe2c7a7f085a0a,Lincoln,city
+218,United States,US,"Colton, CA","[-117.3718819, 34.018596, -117.26786, 34.0961001]",Feature,496f5f37fc86ed85,Colton,city
+219,The Netherlands,NL,"Amsterdam, The Netherlands","[4.7288999, 52.2782266, 5.0792072, 52.4312289]",Feature,99cdab25eddd6bce,Amsterdam,city
+220,United States,US,"Upper Market, San Francisco","[-122.4465168, 37.7617761, -122.426242, 37.769655]",Feature,640e4689c80fb4c5,Upper Market,neighborhood
+221,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+222,Canada,CA,"Varennes, Québec","[-73.487336, 45.610005, -73.323658, 45.748945]",Feature,62b78f4b441b9a2f,Varennes,city
+223,Spain,ES,"Adeje, Spain","[-16.8008387, 28.0659336, -16.6586766, 28.211745]",Feature,4ecd7c95b51819d7,Adeje,city
+224,United States,US,"Denver, CO","[-105.109815, 39.614151, -104.734372, 39.812975]",Feature,b49b3053b5c25bf5,Denver,city
+225,United States,US,"Elgin, IL","[-88.4312933, 41.986293, -88.189602, 42.093586]",Feature,7c4ae4537997a58f,Elgin,city
+226,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+227,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+228,Sierra Leone,SL,Sierra Leone,"[-13.4307965, 6.7938865, -10.2747536, 10.0002944]",Feature,1e228be254cad957,Sierra Leone,country
+229,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+230,United Kingdom,GB,"Manchester, England","[-2.319934, 53.343623, -2.147026, 53.5702824]",Feature,315b740b108481f6,Manchester,city
+231,United States,US,"Toledo, OH","[-83.694776, 41.580375, -83.454566, 41.732806]",Feature,7068dd9474ab6973,Toledo,city
+232,United States,US,"Bargaintown, NJ","[-74.607293, 39.334612, -74.5769961, 39.368613]",Feature,01fc97b92386e326,Bargaintown,city
+233,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+234,Australia,AU,"Arrawarra, New South Wales","[153.183205984, -30.088974951, 153.208423008, -30.037856047]",Feature,0053c5815e83d6a6,Arrawarra,city
+235,United States,US,"Kansas City, MO","[-94.733122, 38.868002, -94.3854414, 39.332095]",Feature,9a974dfc8efb32a0,Kansas City,city
+236,United States,US,"Tulsa, OK","[-96.0656278, 35.968624, -95.761656, 36.250159]",Feature,cb74aaf709812e0f,Tulsa,city
+237,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+238,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+239,United States,US,"Texas, USA","[-106.645646, 25.837092, -93.508131, 36.500695]",Feature,e0060cda70f5f341,Texas,admin
+240,Malaysia,MY,"Arau, Perlis","[100.2255173, 6.3731484, 100.2883377, 6.4631763]",Feature,e97531a80e2f535b,Arau,city
+241,United States,US,"Naperville, IL","[-88.2595981, 41.6655839, -88.063045, 41.8314084]",Feature,3227bcceb76b6a37,Naperville,city
+242,United States,US,"Elkton, MD","[-75.889573, 39.565104, -75.783882, 39.684947]",Feature,a48a6bae6306ab6b,Elkton,city
+243,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+244,United States,US,"College Park, MD","[-76.9655961, 38.971053, -76.903378, 39.022888]",Feature,e4c17912c815124d,College Park,city
+245,United States,US,"Cranston, RI","[-71.5504625, 41.730422, -71.377473, 41.807454]",Feature,4015afc69a8a8506,Cranston,city
+246,United States,US,"Park Forest, IL","[-87.7246923, 41.4563105, -87.655579, 41.50625]",Feature,c1ccf403500d3a65,Park Forest,city
+247,United Kingdom,GB,"Chalfont Saint Peter, South East","[-0.5768961, 51.591659, -0.541587, 51.626233]",Feature,5985f08f4e6615c9,Chalfont Saint Peter,city
+248,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+249,United States,US,"Dublin, CA","[-121.979522, 37.697406, -121.8495354, 37.7336557]",Feature,003253f0107acd32,Dublin,city
+250,Nigeria,NG,"Dutse, Nigeria","[9.3330633, 11.6830535, 9.4114485, 11.793684]",Feature,01ccb5e71756d1be,Dutse,city
+251,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+252,Nigeria,NG,"Minna, Nigeria","[6.5013564, 9.5637137, 6.5841138, 9.6760284]",Feature,01e40dfa286fa1f3,Minna,city
+253,United States,US,"Stockton, CA","[-121.4168716, 37.883347, -121.183979, 38.078305]",Feature,d98e7ce217ade2c5,Stockton,city
+254,United States,US,"Oakland, CA","[-122.34266, 37.699279, -122.114711, 37.8847092]",Feature,ab2f2fac83aa388d,Oakland,city
+255,India,IN,"Rajendra Nagar, India","[78.233173, 17.2371055, 78.5373982, 17.5529688]",Feature,7a8b600fe5f170bc,Rajendra Nagar,city
+256,United States,US,"Croton-on-Hudson, NY","[-73.946553, 41.168161, -73.847928, 41.334491]",Feature,01b828da4311466f,Croton-on-Hudson,city
+257,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+258,United States,US,"Jefferson City, MO","[-92.312792, 38.484463, -92.042823, 38.620738]",Feature,01cace72701072d0,Jefferson City,city
+259,United States,US,"Illinois, USA","[-91.51308, 36.970298, -87.019935, 42.508303]",Feature,f54a2170ff4b15f7,Illinois,admin
+260,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+261,United States,US,"Mississippi, USA","[-91.655009, 30.146096, -88.097889, 34.995968]",Feature,43d2418301bf1a49,Mississippi,admin
+262,United Kingdom,GB,"Yorkshire and The Humber, England","[-2.56475248726412, 53.3015341502953, 0.149787002205902, 54.5621550270294]",Feature,4efd6fc8c50fae33,Yorkshire and The Humber,admin
+263,Mexico,MX,"Matamoros, Coahuila de Zaragoza","[-103.365386, 25.3707451, -103.039367, 25.7875181]",Feature,ba2c61c5735167e3,Matamoros,city
+264,United States,US,"Stillwater, OK","[-97.1449244, 36.0792851, -97.0154851, 36.1800927]",Feature,d0287cda13b8d994,Stillwater,city
+265,United States,US,"Palm Springs, CA","[-116.5677878, 33.7794258, -116.466791, 33.8707332]",Feature,4265ece9285a2872,Palm Springs,city
+266,Brunei,BN,Brunei,"[114.05514, 4.0033314, 115.368438, 5.0456139]",Feature,b4260f742fbc8d32,Brunei,country
+267,Ireland,IE,"Galway, Ireland","[-10.2445252, 52.9675677, -7.9684842, 53.7190576]",Feature,3cdad59a91d99400,Galway,city
+268,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+269,United States,US,"Minneapolis, MN","[-93.329515, 44.889964, -93.194578, 45.051257]",Feature,8e9665cec9370f0f,Minneapolis,city
+270,United Kingdom,GB,Old Deer Park Sports Ground,"[-0.2954311858432488, 51.4687181289659, -0.2954311858432488, 51.4687181289659]",Feature,0fc2ec0d26d5b000,Old Deer Park Sports Ground,poi
+271,United Kingdom,GB,"Milton Keynes, England","[-0.8604724, 51.973129, -0.667655, 52.094005]",Feature,17cc57fae415c45e,Milton Keynes,city
+272,United States,US,"Oceanside, CA","[-117.399853, 33.152639, -117.241905, 33.299993]",Feature,1cf657005480e70e,Oceanside,city
+273,United Kingdom,GB,"Lambeth, London","[-0.15191, 51.410792, -0.078902, 51.509887]",Feature,4393349f368f67a1,Lambeth,city
+274,United States,US,"Castlewood, CO","[-104.923061, 39.565845, -104.872133, 39.609617]",Feature,ccc924a14c815259,Castlewood,city
+275,United States,US,"Missouri, USA","[-95.774704, 35.995476, -89.098843, 40.613641]",Feature,2526edd24c06e60c,Missouri,admin
+276,United States,US,"Flower Mound, TX","[-97.178734, 32.981704, -97.027543, 33.078462]",Feature,d6bbfe2356aebaab,Flower Mound,city
+277,United States,US,"Indianapolis, IN","[-86.348441, 39.631677, -85.937404, 39.927448]",Feature,018929347840059e,Indianapolis,city
+278,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+279,Nigeria,NG,"Abuja, Nigeria","[7.3045544, 8.961887, 7.5436339, 9.1854407]",Feature,00e55e2b4c491c5f,Abuja,city
+280,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+281,Brazil,BR,"Caxias, Brasil","[-43.841513, -5.3059869, -42.849278, -4.381424]",Feature,fb50a0ba6e0ce900,Caxias,city
+282,Australia,AU,"Canberra, Australian Capital Territory","[148.9959216, -35.480260417, 149.263643456, -35.147699163]",Feature,01e4b0c84959d430,Canberra,city
+283,Nigeria,NG,"Kaduna, Nigeria","[7.3566227, 10.4252617, 7.4880222, 10.5972283]",Feature,006c6743642cb09c,Kaduna,city
+284,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+285,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+286,United Kingdom,GB,"Polzeath, England","[-4.93016, 50.560579, -4.905824, 50.580024]",Feature,7c49f871d9d44c7f,Polzeath,city
+287,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+288,United Kingdom,GB,"Bridge of Allan, Scotland","[-3.958479, 56.1407446, -3.9044884, 56.165924]",Feature,601c15f02877fb89,Bridge of Allan,city
+289,United States,US,"Mesa, AZ","[-111.894548, 33.306275, -111.5805834, 33.505234]",Feature,44d207663001f00b,Mesa,city
+290,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+291,Uganda,UG,"Wakiso, Uganda","[32.1922973, -0.1477888, 32.6836991, 0.5850724]",Feature,0092409a629e836c,Wakiso,admin
+292,United Kingdom,GB,"Enfield, London","[-0.18576, 51.604519, -0.0125671, 51.686032]",Feature,537b8c5518197832,Enfield,city
+293,United States,US,"West Mifflin, PA","[-79.9653782, 40.3195582, -79.846018, 40.4022607]",Feature,e323284691c68159,West Mifflin,city
+294,Republic of the Philippines,PH,"Cebu City, Central Visayas","[123.7647381, 10.2594754, 123.9287057, 10.4901895]",Feature,00ca4cd1517ddd94,Cebu City,city
+295,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+296,United States,US,"Secaucus, NJ","[-74.093886, 40.750391, -74.033688, 40.806587]",Feature,c5e2e95296cb121d,Secaucus,city
+297,United Kingdom,GB,"Scarborough, England","[-0.46006, 54.24378, -0.372699, 54.306477]",Feature,4827c143cf972a3d,Scarborough,city
+298,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+299,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+300,Canada,CA,"Brant, Ontario","[-80.608717, 42.984978, -79.984321, 43.306491]",Feature,312f824e8ae3e6c4,Brant,city
+301,United States,US,"Mesa, AZ","[-111.894548, 33.306275, -111.5805834, 33.505234]",Feature,44d207663001f00b,Mesa,city
+302,United States,US,"Peabody, MA","[-71.034586, 42.494855, -70.912696, 42.570296]",Feature,facb653464828079,Peabody,city
+303,United States,US,"Maine, USA","[-71.084335, 42.917127, -66.885075, 47.459687]",Feature,463f5d9615d7d1be,Maine,admin
+304,United Kingdom,GB,"North East, England","[-2.6896487528799, 54.4511368492598, -0.789589998657534, 55.8116995493485]",Feature,67bc7263f7b9047b,North East,admin
+305,United States,US,"Parma, OH","[-81.785053, 41.3503583, -81.68457, 41.419489]",Feature,dbd1fd3168748e88,Parma,city
+306,United States,US,"Augusta, ME","[-69.832494, 44.290196, -69.735635, 44.363964]",Feature,625eb8436720d77f,Augusta,city
+307,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+308,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+309,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+310,United States,US,"San Antonio, TX","[-98.778559, 29.141956, -98.302744, 29.693046]",Feature,3df4f427b5a60fea,San Antonio,city
+311,Ghana,GH,"Central, Ghana","[-2.2033576, 5.0318184, -0.3913921, 6.3125794]",Feature,01ac327903b9ad94,Central,admin
+312,India,IN,"Haveli, India","[73.6246953, 18.2801029, 74.1954594, 18.7362196]",Feature,0a063651d547b2b9,Haveli,city
+313,United States,US,"Virginia Beach, VA","[-76.22808, 36.672684, -75.9118121, 36.932399]",Feature,84229b03659050aa,Virginia Beach,city
+314,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+315,United States,US,"Titusville, FL","[-80.86569, 28.520735, -80.793083, 28.6487172]",Feature,3b97fb577b7bcfb8,Titusville,city
+316,United Kingdom,GB,"South East, England","[-1.95729593780907, 50.5746064789388, 1.45178800018019, 52.1962850088601]",Feature,06168d1feda43857,South East,admin
+317,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+318,United States,US,"New York, USA","[-79.76259, 40.477383, -71.777492, 45.015851]",Feature,94965b2c45386f87,New York,admin
+319,Nigeria,NG,"Calabar, Nigeria","[8.3075007, 4.9112081, 8.372645, 5.0414683]",Feature,005c6f3641f95852,Calabar,city
+320,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+321,United States,US,"Middletown, PA","[-76.746334, 40.185009, -76.714174, 40.219523]",Feature,626196f3a0d61316,Middletown,city
+322,Pakistan,PK,"Punjab, Pakistan","[69.328873, 27.708226, 75.382124, 34.019989]",Feature,00cc0d5640394308,Punjab,admin
+323,United States,US,"Pico Rivera, CA","[-118.123005, 33.950457, -118.037043, 34.037384]",Feature,e3505917a639e8ec,Pico Rivera,city
+324,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+325,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+326,Canada,CA,"Capital G, British Columbia","[-123.629692, 48.50296, -123.008472, 49.018263]",Feature,2d9570c084cf8a31,Capital G,city
+327,United States,US,"Nashville, TN","[-87.022482, 35.9945681, -86.560616, 36.405448]",Feature,00ab941b685334e3,Nashville,city
+328,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+329,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+330,United States,US,"Brush, CO","[-103.660417, 40.244016, -103.6128288, 40.276334]",Feature,da0c7aa4051bcab4,Brush,city
+331,Indonesia,ID,"Tanah Abang, Indonesia","[106.801353, -6.226841, 106.832922, -6.17638]",Feature,019ffe0a3471b036,Tanah Abang,city
+332,Canada,CA,"Vaughan, Ontario","[-79.711527, 43.749761, -79.420056, 43.924448]",Feature,78d9392bd6093265,Vaughan,city
+333,Nigeria,NG,"Federal Capital Territory, Nigeria","[6.7786135, 8.4504401, 7.7274781, 9.4345273]",Feature,01c46739344ba9f6,Federal Capital Territory,admin
+334,United States,US,"Lakewood, CA","[-118.167821, 33.8200574, -118.0583298, 33.869242]",Feature,0fc6568d145d84ac,Lakewood,city
+335,Pakistan,PK,"Punjab, Pakistan","[69.328873, 27.708226, 75.382124, 34.019989]",Feature,00cc0d5640394308,Punjab,admin
+336,Ghana,GH,"Central, Ghana","[-2.2033576, 5.0318184, -0.3913921, 6.3125794]",Feature,01ac327903b9ad94,Central,admin
+337,United States,US,"Kerman, CA","[-120.083084, 36.716771, -120.0419949, 36.736803]",Feature,31fd66b3f28d4c5a,Kerman,city
+338,United States,US,"Kansas, USA","[-102.051769, 36.9931101, -94.588081, 40.003282]",Feature,27c45d804c777999,Kansas,admin
+339,United Kingdom,GB,"Gillingham, England","[0.526794, 51.3345696, 0.6381132, 51.407739]",Feature,49d9269c0a7667cb,Gillingham,city
+340,India,IN,"Ranchi, India","[84.869323, 23.00583, 85.902043, 23.715039]",Feature,042b5e87acf40437,Ranchi,city
+341,United States,US,"Boynton Beach, FL","[-80.173447, 26.476484, -80.05236, 26.5904875]",Feature,005e3661711a29a9,Boynton Beach,city
+342,United Kingdom,GB,"Edinburgh, Scotland","[-3.3285119, 55.894729, -3.077505, 55.991662]",Feature,7ae9e2f2ff7a87cd,Edinburgh,city
+343,United States,US,"Denver, CO","[-105.109815, 39.614151, -104.734372, 39.812975]",Feature,b49b3053b5c25bf5,Denver,city
+344,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+345,United Kingdom,GB,"Hackney, London","[-0.104501, 51.518605, -0.015834, 51.5766844]",Feature,2a3f152d1ac5044a,Hackney,city
+346,United States,US,"Boston, MA","[-71.191421, 42.227797, -70.986004, 42.399542]",Feature,67b98f17fdcf20be,Boston,city
+347,Japan,JP,"Chuo-ku, Tokyo","[139.758528, 35.644646, 139.793196, 35.69663]",Feature,735b6f2b933efaf6,Chuo-ku,city
+348,Iraq,IQ,Iraq,"[38.7947010004891, 29.0717100004153, 48.5759079995109, 37.3780399995847]",Feature,b62cd77425868341,Iraq,country
+349,United Kingdom,GB,"Brighton, England","[-0.173706, 50.80835, -0.0870057, 50.872314]",Feature,573ede7f6c450804,Brighton,city
+350,United States,US,"Atascocita, TX","[-95.2497924, 29.9122421, -95.135568, 30.033094]",Feature,38d0e797745f4c5d,Atascocita,city
+351,United States,US,"Nashua, NH","[-71.5749, 42.7000873, -71.4333342, 42.805852]",Feature,db6cee8d55fe4a29,Nashua,city
+352,United Kingdom,GB,"Aberdeen, Scotland","[-2.1899763, 57.107695, -2.0641046, 57.2134174]",Feature,73cc26d418860ddd,Aberdeen,city
+353,Singapore,SG,"Central Region, Singapore","[103.749959507073, 1.2123138339349, 103.918426999964, 1.36874499902569]",Feature,58a4c3a0d54e1400,Central Region,admin
+354,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+355,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+356,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+357,United States,US,"Connecticut, USA","[-73.727776, 40.950918, -71.786994, 42.050588]",Feature,e86b380cfefcced5,Connecticut,admin
+358,United States,US,"Destin, FL","[-86.5157712, 30.37865, -86.39721, 30.4177057]",Feature,18a461be4c0c2033,Destin,city
+359,United States,US,"North Smithfield, RI","[-71.608412, 41.9362085, -71.483853, 42.0155617]",Feature,01f6624f697ce58b,North Smithfield,city
+360,United States,US,"Redlands, CA","[-117.2437359, 34.003849, -117.103406, 34.1018978]",Feature,c904ca419d4e53c6,Redlands,city
+361,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+362,South Africa,ZA,"Seshego, South Africa","[29.3385506, -23.8729968, 29.4117258, -23.8247528]",Feature,4a1714afea001cb6,Seshego,city
+363,United States,US,"Massachusetts, USA","[-73.508143, 41.187054, -69.858861, 42.8868241]",Feature,cd450c94084cbf9b,Massachusetts,admin
+364,United States,US,"Golden Hills, CA","[-118.521539, 35.116905, -118.471672, 35.168266]",Feature,1e88a7fdb5f18dd2,Golden Hills,city
+365,Pakistan,PK,"Punjab, Pakistan","[69.328873, 27.708226, 75.382124, 34.019989]",Feature,00cc0d5640394308,Punjab,admin
+366,United Kingdom,GB,"Poplar, London","[-0.080028, 51.48432, 0.009989, 51.545341]",Feature,08be9e4ebe3d037d,Poplar,city
+367,India,IN,"Katihar, India","[87.541997, 25.525778, 87.585763, 25.570712]",Feature,452b898dbeb030e4,Katihar,city
+368,United States,US,"Aventura, FL","[-80.150642, 25.9373697, -80.12375, 25.9748652]",Feature,b3eda928fff7bdff,Aventura,city
+369,United States,US,"Mobile, AL","[-88.301598, 30.523874, -88.021513, 30.843424]",Feature,d049033410e9e81b,Mobile,city
+370,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+371,Japan,JP,"Iwakuni-shi, Yamaguchi","[131.878779, 33.980665, 132.430781, 34.469507]",Feature,7473d721e7b2dd53,Iwakuni-shi,city
+372,Uganda,UG,"Kampala, Uganda","[32.4166234, 0.1648531, 32.7216969, 0.4136818]",Feature,000c69ad123213a8,Kampala,admin
+373,Ghana,GH,"Central, Ghana","[-2.2033576, 5.0318184, -0.3913921, 6.3125794]",Feature,01ac327903b9ad94,Central,admin
+374,United States,US,"Clarksville, TN","[-87.486546, 36.4602, -87.157791, 36.641767]",Feature,52f4a98d03e4ea4f,Clarksville,city
+375,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+376,United States,US,"Lowell, IN","[-87.450451, 41.27722, -87.384047, 41.338467]",Feature,ca3ad5143b14a091,Lowell,city
+377,Indonesia,ID,"Kebayoran Lama, Indonesia","[106.770437, -6.297602, 106.805699, -6.202102]",Feature,d74066a958870db1,Kebayoran Lama,city
+378,United States,US,"Pasco, FL","[-82.337852, 28.273444, -82.324693, 28.325295]",Feature,0078551d41f411af,Pasco,city
+379,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+380,Nigeria,NG,"Ibadan, Nigeria","[3.7770114, 7.2991429, 4.0335816, 7.5590064]",Feature,0065f09a6666479e,Ibadan,city
+381,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+382,United States,US,Larchmont Village,"[-118.32368128151134, 34.074814441083234, -118.32368128151134, 34.074814441083234]",Feature,07d9e386fcc84000,Larchmont Village,poi
+383,United Kingdom,GB,"Enfield, London","[-0.18576, 51.604519, -0.0125671, 51.686032]",Feature,537b8c5518197832,Enfield,city
+384,United States,US,"Pittsburgh, PA","[-80.095586, 40.3615796, -79.8657933, 40.501198]",Feature,946ccd22e1c9cda1,Pittsburgh,city
+385,Mexico,MX,"Cuauhtémoc, Distrito Federal","[-99.1843501, 19.3998346, -99.122382, 19.4658366]",Feature,bfc35dcc7e63252a,Cuauhtémoc,city
+386,United Kingdom,GB,"Paddington, London","[-0.2160701, 51.5098789, -0.1301597, 51.5397916]",Feature,56c45474148ca4da,Paddington,city
+387,United Kingdom,GB,"Swindon, England","[-1.8519024, 51.535198, -1.719477, 51.6108189]",Feature,381b5744987ae0bd,Swindon,city
+388,Sierra Leone,SL,Sierra Leone,"[-13.4307965, 6.7938865, -10.2747536, 10.0002944]",Feature,1e228be254cad957,Sierra Leone,country
+389,United States,US,"Vineland, NJ","[-75.076284, 39.401507, -74.945245, 39.568715]",Feature,ecc2e1285c7d074f,Vineland,city
+390,United Kingdom,GB,"Newcastle-under-Lyme, England","[-2.291933, 52.9769448, -2.20254, 53.059366]",Feature,69027b204b9c5c9b,Newcastle-under-Lyme,city
+391,United States,US,"Ohio, USA","[-84.8203089, 38.403186, -80.518626, 42.327133]",Feature,de599025180e2ee7,Ohio,admin
+392,United States,US,"West Babylon, NY","[-73.396877, 40.668458, -73.328665, 40.741706]",Feature,0e9eb11ae9e524aa,West Babylon,city
+393,India,IN,"Panvel, India","[72.946773, 18.807586, 73.280893, 19.126016]",Feature,5ac082d327f10ae4,Panvel,city
+394,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+395,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+396,United Kingdom,GB,Accrington,"[-2.3720516493098893, 53.75570728949736, -2.3720516493098893, 53.75570728949736]",Feature,07d9d459fd487000,Accrington,poi
+397,Ghana,GH,"Greater Accra, Ghana","[-0.495283, 5.4812804, 0.6719668, 6.1058921]",Feature,018d4410153dc23b,Greater Accra,admin
+398,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+399,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+400,United States,US,Target,"[-119.91251452906504, 36.83471838165831, -119.91251452906504, 36.83471838165831]",Feature,0fc385589d541002,Target,poi
+401,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+402,Ireland,IE,"Fingal, Ireland","[-6.4757083, 53.3508617, -5.9957316, 53.6383337]",Feature,73a5d83329504007,Fingal,city
+403,United States,US,"Johnson City, TN","[-82.4759055, 36.2592231, -82.300523, 36.430258]",Feature,4185eba3c7183f0b,Johnson City,city
+404,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+405,United States,US,"Boiling Springs, SC","[-82.036159, 35.016441, -81.876408, 35.101499]",Feature,07e90b95fd0aa9d9,Boiling Springs,city
+406,United States,US,"San Juan, USA","[-66.125093, 18.29645, -65.991643, 18.471881]",Feature,547fe91108bd744c,San Juan,city
+407,Nigeria,NG,"Edo, Nigeria","[5.0086055, 5.7411889, 6.7194358, 7.5964485]",Feature,00c769811539c617,Edo,admin
+408,United States,US,"North Haven, CT","[-72.9079628, 41.332539, -72.728027, 41.4344481]",Feature,dc482d90e88b4cc7,North Haven,city
+409,United States,US,"Mission Bend, TX","[-95.681932, 29.6808922, -95.6341997, 29.7199015]",Feature,2a9e190efe38237e,Mission Bend,city
+410,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+411,Ecuador,EC,"Quito, Ecuador","[-78.948465999276, -0.588618000469648, -78.1648970044175, 0.255476999458879]",Feature,0177bc687a9ac697,Quito,city
+412,Ghana,GH,"Ashanti, Ghana","[-2.4515585, 5.854695, -0.2381039, 7.6236528]",Feature,00f5549404af1068,Ashanti,admin
+413,United States,US,"Des Moines, WA","[-122.3357856, 47.3403908, -122.291094, 47.431114]",Feature,625eb47b5e233645,Des Moines,city
+414,United States,US,"Newport Beach, CA","[-117.9582193, 33.563618, -117.789845, 33.671658]",Feature,0ce4c27ce26030aa,Newport Beach,city
+415,United States,US,"Haverhill, MA","[-71.1823619, 42.734289, -71.000439, 42.827267]",Feature,fe52af1ec31cb540,Haverhill,city
+416,United Kingdom,GB,"Faversham, England","[0.866301, 51.297488, 0.912072, 51.3283746]",Feature,0f8ab3b81a75c220,Faversham,city
+417,United States,US,"Apple Valley, MN","[-93.248871, 44.717447, -93.156006, 44.775899]",Feature,2dbc9973dd80d3a3,Apple Valley,city
+418,United States,US,"Austin, TX","[-97.928935, 30.127892, -97.5805133, 30.5187994]",Feature,c3f37afa9efcf94b,Austin,city
+419,Ghana,GH,"Oyarifa, Ghana","[-0.2508272, 5.6545401, -0.1145835, 5.7836066]",Feature,0085c4a6640325a8,Oyarifa,city
+420,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+421,United Kingdom,GB,"South West, England","[-6.36850399906372, 49.8824720005481, -1.48573420014269, 52.1125420344225]",Feature,25d3e991f5637f5a,South West,admin
+422,United States,US,"Midvale, UT","[-111.921741, 40.593357, -111.855658, 40.631074]",Feature,ea98531b10405c6a,Midvale,city
+423,United States,US,"Douglasville, GA","[-84.7948142, 33.688539, -84.6335097, 33.784073]",Feature,68482982f9baf37a,Douglasville,city
+424,United Kingdom,GB,"Bradford, England","[-1.837304, 53.773415, -1.696336, 53.858452]",Feature,584d81d6e854d368,Bradford,city
+425,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+426,Australia,AU,"Brisbane, Queensland","[152.668522848, -27.767440994, 153.31787024, -26.996844991]",Feature,004ec16c62325149,Brisbane,city
+427,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+428,United States,US,"Pasco, FL","[-82.337852, 28.273444, -82.324693, 28.325295]",Feature,0078551d41f411af,Pasco,city
+429,New Zealand,NZ,"Auckland, New Zealand","[174.161834, -37.292621, 175.550653, -35.898837]",Feature,0022e3c837579650,Auckland,city
+430,Belgium,BE,"Heist-op-den-Berg, België","[4.6589769, 50.9986181, 4.8182484, 51.1275306]",Feature,93cf055ffd38eca2,Heist-op-den-Berg,city
+431,Brazil,BR,"Santo Antônio de Jesus, Brasil","[-39.335669, -13.09883, -39.104547, -12.939389]",Feature,6084978d66cca3ac,Santo Antônio de Jesus,city
+432,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+433,United States,US,"West Hollywood, CA","[-118.3959042, 34.075963, -118.3433861, 34.098056]",Feature,1927193c57f35d51,West Hollywood,city
+434,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+435,United States,US,"Vero Beach, FL","[-80.463302, 27.5870076, -80.346166, 27.674983]",Feature,3cf05613c1dd6dbd,Vero Beach,city
+436,United States,US,Waco Suspension Bridge,"[-97.12768030002125, 31.560663278077858, -97.12768030002125, 31.560663278077858]",Feature,07d9d27915480000,Waco Suspension Bridge,poi
+437,South Africa,ZA,"Pretoria, South Africa","[27.9483035, -25.9157727, 28.4198285, -25.5894376]",Feature,0e587c59401d0a27,Pretoria,city
+438,Canada,CA,"Halifax, Nova Scotia","[-64.237659, 43.366298, -59.385802, 45.27617]",Feature,5d058f2e9fe1516c,Halifax,city
+439,United States,US,"Baltimore, MD","[-76.7115205, 39.197211, -76.529443, 39.372215]",Feature,c0b8e8dc81930292,Baltimore,city
+440,Antigua and Barbuda,AG,Antigua and Barbuda,"[-62.348502, 16.932155, -61.6569532, 17.729448]",Feature,e0f46cd26fe3d713,Antigua and Barbuda,country
+441,United States,US,"Chandler, AZ","[-111.972849, 33.2037607, -111.788898, 33.36114]",Feature,52445186970bafb3,Chandler,city
+442,United Kingdom,GB,"Brighton, England","[-0.173706, 50.80835, -0.0870057, 50.872314]",Feature,573ede7f6c450804,Brighton,city
+443,Nigeria,NG,"Benin-City, Nigeria","[5.5532952, 6.2445092, 5.7292806, 6.4254003]",Feature,005dbe7e6949db42,Benin-City,city
+444,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+445,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+446,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+447,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+448,United States,US,"San Juan, USA","[-66.125093, 18.29645, -65.991643, 18.471881]",Feature,547fe91108bd744c,San Juan,city
+449,United States,US,"Lockport, IL","[-88.0870852, 41.553694, -87.9434504, 41.6418019]",Feature,014241bf2253c205,Lockport,city
+450,New Zealand,NZ,"Buller District, New Zealand","[171.325791, -42.524036, 172.692102, -40.774543]",Feature,0048ffe1662a0a13,Buller District,city
+451,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+452,United States,US,"Maywood, NJ","[-74.07283, 40.886892, -74.05033, 40.9176085]",Feature,3c6a77e80605a98e,Maywood,city
+453,United States,US,"Lawton, OK","[-98.527851, 34.547508, -98.317202, 34.694413]",Feature,52da8bdd847955f2,Lawton,city
+454,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+455,United Kingdom,GB,"Norwich, England","[1.20388, 52.598032, 1.342283, 52.684934]",Feature,0c2f185415d757e3,Norwich,city
+456,United States,US,"Long Beach, CA","[-118.250227, 33.732905, -118.0631938, 33.885438]",Feature,01c060cf466c6ce3,Long Beach,city
+457,United States,US,"Maine, USA","[-71.084335, 42.917127, -66.885075, 47.459687]",Feature,463f5d9615d7d1be,Maine,admin
+458,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+459,United States,US,"Grand Rapids, MI","[-85.751406, 42.883679, -85.530877, 43.029144]",Feature,a81f9ed24c15d6af,Grand Rapids,city
+460,United States,US,"Fresno, CA","[-119.93251, 36.648905, -119.632419, 36.923179]",Feature,944c03c1d85ef480,Fresno,city
+461,United States,US,"Round Rock, TX","[-97.755394, 30.4684424, -97.59007, 30.5702392]",Feature,00c44eeb126d2fcd,Round Rock,city
+462,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+463,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+464,New Zealand,NZ,"Dunedin City, New Zealand","[169.736478, -46.052058, 170.750898, -45.228967]",Feature,00cc2a2f169735bc,Dunedin City,city
+465,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+466,Uganda,UG,"Kampala, Uganda","[32.4166234, 0.1648531, 32.7216969, 0.4136818]",Feature,000c69ad123213a8,Kampala,admin
+467,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+468,United States,US,"New Jersey, USA","[-75.563587, 38.788657, -73.88506, 41.357424]",Feature,65b4760a2b411e11,New Jersey,admin
+469,Nigeria,NG,"Abuja, Nigeria","[7.3045544, 8.961887, 7.5436339, 9.1854407]",Feature,00e55e2b4c491c5f,Abuja,city
+470,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+471,Suriname,SR,Suriname,"[-58.0865631, 1.831414, -53.968391, 5.9972545]",Feature,3afcd8fd83f599e3,Suriname,country
+472,United States,US,"Boca Raton, FL","[-80.2039913, 26.320692, -80.065981, 26.427259]",Feature,d1cd39353c51904d,Boca Raton,city
+473,United States,US,"Fort Worth, TX","[-97.538285, 32.569477, -97.033542, 32.990456]",Feature,42e46bc3663a4b5f,Fort Worth,city
+474,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+475,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+476,India,IN,"Maler Kotla, India","[75.650718, 30.278903, 76.089565, 30.687796]",Feature,07ee61d43ab71ea3,Maler Kotla,city
+477,South Africa,ZA,"Centurion, South Africa","[28.0010585, -25.9448996, 28.2712217, -25.7768617]",Feature,cc95b56a28712044,Centurion,city
+478,United States,US,"Princeton, OH","[-84.4786525, 39.3709454, -84.3999339, 39.433678]",Feature,017f44ae677e9ec7,Princeton,city
+479,United States,US,"Westbrook, ME","[-70.391816, 43.644549, -70.311199, 43.75233]",Feature,0105162a703442f4,Westbrook,city
+480,United States,US,"Missoula, MT","[-114.1203252, 46.780202, -113.941975, 46.977998]",Feature,00427d4a5c4a1fc3,Missoula,city
+481,Sweden,SE,"Malmo, Sweden","[12.7178537, 55.4799811, 13.1519338, 55.6797338]",Feature,6b9fbf597adbeafd,Malmo,city
+482,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+483,United Kingdom,GB,"Widnes, England","[-2.784107, 53.341503, -2.697338, 53.395284]",Feature,08cbe688c95171d1,Widnes,city
+484,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+485,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+486,United States,US,"Fontana, CA","[-117.5243291, 34.033432, -117.4010671, 34.1828894]",Feature,d838baf51d1c629d,Fontana,city
+487,United States,US,"Hartford, WV","[-82.001679, 38.980407, -81.980899, 39.017727]",Feature,01941e455ec8cd1a,Hartford,city
+488,United States,US,"Cleveland Heights, OH","[-81.603358, 41.4827416, -81.529651, 41.5452739]",Feature,aa7defe13028d41f,Cleveland Heights,city
+489,United States,US,"Palm Valley, FL","[-81.429238, 30.133473, -81.36028, 30.252933]",Feature,6416fd85ecf9cf8b,Palm Valley,city
+490,United States,US,"West Congress, Austin","[-97.781473, 30.204998, -97.763615, 30.226917]",Feature,4e1a033ae2ba63e6,West Congress,neighborhood
+491,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+492,United States,US,"Frisco, TX","[-96.937783, 33.081206, -96.7327146, 33.219073]",Feature,00c3e46c3d0cac08,Frisco,city
+493,United States,US,"Cleveland, OH","[-81.877771, 41.392684, -81.5331634, 41.599195]",Feature,0eb9676d24b211f1,Cleveland,city
+494,United States,US,"Ontario, CA","[-117.6836, 33.997213, -117.5239664, 34.093104]",Feature,895f19a3c08d3d35,Ontario,city
+495,United States,US,"Spokane, WA","[-117.565226, 47.5742, -117.303868, 47.760676]",Feature,dc3747428fa88cab,Spokane,city
+496,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+497,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+498,The Netherlands,NL,"Amsterdam, The Netherlands","[4.7288999, 52.2782266, 5.0792072, 52.4312289]",Feature,99cdab25eddd6bce,Amsterdam,city
+499,United States,US,"New York, USA","[-79.76259, 40.477383, -71.777492, 45.015851]",Feature,94965b2c45386f87,New York,admin
+500,United States,US,"Manchester, NH","[-71.5127219, 42.8909187, -71.3754393, 43.0514794]",Feature,5e6cc87c609e3a59,Manchester,city
+501,United States,US,"Connecticut, USA","[-73.727776, 40.950918, -71.786994, 42.050588]",Feature,e86b380cfefcced5,Connecticut,admin
+502,France,FR,"Paris, Ile-de-France","[2.2241006, 48.8155214, 2.4699053, 48.9021461]",Feature,3102b24b5af90698,Paris,admin
+503,Indonesia,ID,"Dukuh Pakis, Indonesia","[112.682692, -7.308549, 112.724475, -7.278397]",Feature,c83ae62d49ba8812,Dukuh Pakis,city
+504,United States,US,"Greeneville, TN","[-82.938339, 36.074756, -82.758263, 36.207564]",Feature,a46b4fbafe0dd5af,Greeneville,city
+505,United Kingdom,GB,"Cambridge, England","[0.0873022, 52.1642435, 0.18453, 52.237704]",Feature,3aa1b1861c56d910,Cambridge,city
+506,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+507,Democratic Republic of Congo,CD,Democratic Republic of Congo,"[12.2013992, -13.4587898, 31.3062178, 5.3920348]",Feature,17cd9eb8e2c0152c,Democratic Republic of Congo,country
+508,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+509,United Kingdom,GB,"Byker, England","[-1.611559, 54.959766, -1.530588, 55.009984]",Feature,4249bb41acf40cfb,Byker,city
+510,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+511,Brazil,BR,"Rio de Janeiro, Brazil","[-43.795449, -23.08302, -43.0877068, -22.7398234]",Feature,97bcdfca1a2dca59,Rio de Janeiro,city
+512,United States,US,"Cincinnati, OH","[-84.710722, 39.052962, -84.3689026, 39.2211137]",Feature,e444ecd51bd16ff3,Cincinnati,city
+513,Nigeria,NG,"Abuja, Nigeria","[7.3045544, 8.961887, 7.5436339, 9.1854407]",Feature,00e55e2b4c491c5f,Abuja,city
+514,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+515,United States,US,"Tennessee, USA","[-90.310298, 34.982924, -81.646901, 36.678119]",Feature,7f7d58e5229c6b6c,Tennessee,admin
+516,United States,US,"Brownsville, TX","[-97.5800852, 25.8587233, -97.374767, 26.085488]",Feature,d48f32df6ecc8aaa,Brownsville,city
+517,South Africa,ZA,"Sandton, South Africa","[27.9829939, -26.1362658, 28.1382322, -25.9811502]",Feature,178a87b8e2eaa375,Sandton,city
+518,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+519,United Kingdom,GB,"Ampfield, England","[-1.4401376, 51.0001129, -1.4045029, 51.0151922]",Feature,728439462055215e,Ampfield,city
+520,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+521,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+522,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+523,United States,US,"Lincoln Park, MI","[-83.202957, 42.220851, -83.155381, 42.271565]",Feature,1769b19bf68bc543,Lincoln Park,city
+524,Morocco,MA,"Méchouar Kasba, Royaume du Maroc","[-8.0138583, 31.573062, -7.9646916, 31.6198267]",Feature,74c86ea08b1fb0d2,Méchouar Kasba,city
+525,United States,US,"Mount Pleasant, WI","[-87.9103139, 42.667745, -87.786808, 42.755807]",Feature,009327fe192849b0,Mount Pleasant,city
+526,Ghana,GH,"Dormaa Ahenkro, Ghana","[-2.8985366, 7.2578697, -2.8533962, 7.2909178]",Feature,01dd58d15de2b1e6,Dormaa Ahenkro,city
+527,United States,US,"Thousand Oaks, CA","[-119.061758, 34.126875, -118.776015, 34.2500812]",Feature,0509a6acb3d27ec4,Thousand Oaks,city
+528,United States,US,"Maine, USA","[-71.084335, 42.917127, -66.885075, 47.459687]",Feature,463f5d9615d7d1be,Maine,admin
+529,United Kingdom,GB,"Hackney, London","[-0.104501, 51.518605, -0.015834, 51.5766844]",Feature,2a3f152d1ac5044a,Hackney,city
+530,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+531,United States,US,"Douglasville, GA","[-84.7948142, 33.688539, -84.6335097, 33.784073]",Feature,68482982f9baf37a,Douglasville,city
+532,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+533,United States,US,"Mission, TX","[-98.363219, 26.1550463, -98.2721464, 26.262558]",Feature,77633125ba089dcb,Mission,city
+534,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+535,United States,US,"Alaska, USA","[-179.231086, 51.175093, 179.859685, 71.434357]",Feature,07179f4fe0500a32,Alaska,admin
+536,United States,US,"Jackson, TN","[-88.927948, 35.533842, -88.749242, 35.754808]",Feature,76c39f0faecc2198,Jackson,city
+537,United States,US,"Chalfont, PA","[-75.225463, 40.277487, -75.190206, 40.30341]",Feature,7a1e514fe55d7b87,Chalfont,city
+538,United States,US,"Palmdale, CA","[-118.262388, 34.521165, -117.988004, 34.646093]",Feature,e868cf904e518ff4,Palmdale,city
+539,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+540,United States,US,"Kansas City, MO","[-94.733122, 38.868002, -94.3854414, 39.332095]",Feature,9a974dfc8efb32a0,Kansas City,city
+541,United States,US,"Port Richey, FL","[-82.744399, 28.2631719, -82.7072123, 28.287695]",Feature,66f5a20eae65a37d,Port Richey,city
+542,Singapore,SG,"East Region, Singapore","[103.89216999988, 1.30157724092846, 104.085566789885, 1.44093662101956]",Feature,6635b2fcebd13c64,East Region,admin
+543,United States,US,"Maricopa, AZ","[-112.079946, 33.029009, -111.944584, 33.0879834]",Feature,001b67fd5761210e,Maricopa,city
+544,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+545,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+546,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+547,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+548,United States,US,"Conway, FL","[-81.351673, 28.4804335, -81.310421, 28.514743]",Feature,b6d7ab2d20c1a99c,Conway,city
+549,United States,US,"Kettering, MD","[-76.831975, 38.873828, -76.7399394, 38.901951]",Feature,7e11eddbcb11060d,Kettering,city
+550,New Zealand,NZ,"Wellington City, New Zealand","[174.613267, -41.362455, 174.89541, -41.14354]",Feature,013b5456649606dc,Wellington City,city
+551,United Kingdom,GB,"Wales, United Kingdom","[-5.35340678071236, 51.3787780012005, -2.64982707940341, 53.4300939018827]",Feature,208d28e57bdc12e9,Wales,admin
+552,United States,US,"Richardson, TX","[-96.769003, 32.923164, -96.612871, 33.005805]",Feature,bc7f3267d2efaf40,Richardson,city
+553,United States,US,"Tempe, AZ","[-111.979047, 33.3199453, -111.877237, 33.465823]",Feature,7cb7440bcf83d464,Tempe,city
+554,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+555,United Kingdom,GB,"Bickington, England","[-4.106334, 51.061596, -4.056901, 51.078212]",Feature,75331c30c4d4ec21,Bickington,city
+556,United Kingdom,GB,"Lytham St. Annes, England","[-3.0571475, 53.734748, -2.9363878, 53.780813]",Feature,02a8ed5b791223de,Lytham St. Annes,city
+557,United Kingdom,GB,"Maghull, England","[-2.96336, 53.496697, -2.901995, 53.5376849]",Feature,3a5ed371a23b6add,Maghull,city
+558,United States,US,"Arizona, USA","[-114.818269, 31.3322463, -109.0451527, 37.004261]",Feature,a612c69b44b2e5da,Arizona,admin
+559,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+560,Nigeria,NG,"Port Harcourt, Nigeria","[6.9380658, 4.7337699, 7.1244854, 4.9154902]",Feature,0008cb6457ff0b55,Port Harcourt,city
+561,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+562,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+563,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+564,Ghana,GH,"Lapaz Bus Station, Lapaz","[-0.2468210646682992, 5.607201926463997, -0.2468210646682992, 5.607201926463997]",Feature,07d9cd1b57485000,"Lapaz Bus Station, Lapaz",poi
+565,India,IN,"Hyderabad, India","[78.3897718, 17.3013989, 78.5404168, 17.4759]",Feature,243cc16f6417a167,Hyderabad,city
+566,United States,US,"St Paul, MN","[-93.207783, 44.8907521, -93.003514, 44.992279]",Feature,60e2c37980197297,St Paul,city
+567,United States,US,"Bettendorf, IA","[-90.533035, 41.519514, -90.4055918, 41.596109]",Feature,125129e27a3e66ca,Bettendorf,city
+568,Republic of the Philippines,PH,"Quezon City, National Capital Region","[120.989705, 14.5893763, 121.1357656, 14.7766484]",Feature,006523c50dfe9086,Quezon City,city
+569,United States,US,"Glenview, IL","[-87.894012, 42.054687, -87.7579575, 42.1151699]",Feature,ed888f00de07aa3a,Glenview,city
+570,Nigeria,NG,"Likoro, Nigeria","[7.7931242, 11.19796, 7.8007617, 11.2058821]",Feature,01be5c9d5388b6a4,Likoro,city
+571,United Kingdom,GB,"London, England","[-0.187894, 51.483718, -0.109978, 51.5164655]",Feature,457b4814b4240d87,London,city
+572,Ghana,GH,Lapaz,"[-0.2495662008711928, 5.606241565461488, -0.2495662008711928, 5.606241565461488]",Feature,07d9f62754085003,Lapaz,poi
+573,United States,US,"Columbus, OH","[-83.200169, 39.832013, -82.7713751, 40.157354]",Feature,3df0e3eb1e91170b,Columbus,city
+574,Nigeria,NG,"Kano, Nigeria","[8.4475987, 11.9296331, 8.6073347, 12.0803669]",Feature,00611f1548c7bdef,Kano,city
+575,United States,US,"Austin, TX","[-97.928935, 30.127892, -97.5805133, 30.5187994]",Feature,c3f37afa9efcf94b,Austin,city
+576,Iraq,IQ,Iraq,"[38.7947010004891, 29.0717100004153, 48.5759079995109, 37.3780399995847]",Feature,b62cd77425868341,Iraq,country
+577,New Zealand,NZ,"Wellington City, New Zealand","[174.613267, -41.362455, 174.89541, -41.14354]",Feature,013b5456649606dc,Wellington City,city
+578,United States,US,"Menifee, CA","[-117.258067, 33.618318, -117.1360983, 33.757777]",Feature,00ec60e4304ee8bf,Menifee,city
+579,United Kingdom,GB,"Epsom, South East","[-0.3047576, 51.308464, -0.217073, 51.381086]",Feature,3554d7fe9a8821f9,Epsom,city
+580,Canada,CA,"Ottawa, Ontario","[-76.353876, 44.961937, -75.246407, 45.5356446]",Feature,38d5974e82ed1a6c,Ottawa,city
+581,Russia,RU,"Novosibirsk, Russia","[82.7506128, 54.8033832, 83.1607621, 55.1997816]",Feature,679cf8e8e64889c3,Novosibirsk,city
+582,United Kingdom,GB,"Birkenhead, England","[-3.1457875, 53.304078, -2.933067, 53.421308]",Feature,2f843bbfaebff6ef,Birkenhead,city
+583,Ghana,GH,Cida's Beauty Parlour,"[-0.25998481446961647, 5.61361549524178, -0.25998481446961647, 5.61361549524178]",Feature,07d9cd19a5880000,Cida's Beauty Parlour,poi
+584,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+585,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+586,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+587,United States,US,"South Carolina, USA","[-83.353955, 32.04683, -78.499301, 35.215449]",Feature,6057f1e35bcc6c20,South Carolina,admin
+588,United States,US,"South El Monte, CA","[-118.075186, 34.0281369, -118.021298, 34.064367]",Feature,122aef8d6840943b,South El Monte,city
+589,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+590,United States,US,"Petersburg, VA","[-77.44753, 37.171162, -77.336123, 37.244906]",Feature,5fb04b3fffc3ad07,Petersburg,city
+591,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+592,United States,US,"North Carolina, USA","[-84.3219475, 33.752879, -75.40012, 36.588118]",Feature,3b98b02fba3f9753,North Carolina,admin
+593,Republic of Korea,KR,"Mapo-gu, Republic of Korea","[126.855912576725, 37.523438844739, 126.967013374467, 37.5893965817644]",Feature,019fba1c5ac23f79,Mapo-gu,city
+594,United States,US,"Minneapolis, MN","[-93.329515, 44.889964, -93.194578, 45.051257]",Feature,8e9665cec9370f0f,Minneapolis,city
+595,Ghana,GH,City Link,"[-0.25329592164743603, 5.60564525803607, -0.25329592164743603, 5.60564525803607]",Feature,07d9d67de7882001,City Link,poi
+596,Nigeria,NG,"Uyo, Nigeria","[7.8619108, 4.9711142, 8.0037505, 5.0716486]",Feature,01546f6801ce58cd,Uyo,city
+597,United States,US,"Shoreview, MN","[-93.188708, 45.035759, -93.106189, 45.124444]",Feature,9939cd3304d567a1,Shoreview,city
+598,United States,US,"Tulsa, OK","[-96.0656278, 35.968624, -95.761656, 36.250159]",Feature,cb74aaf709812e0f,Tulsa,city
+599,United States,US,"Texas, USA","[-106.645646, 25.837092, -93.508131, 36.500695]",Feature,e0060cda70f5f341,Texas,admin
+600,United States,US,"Jersey City, NJ","[-74.107995, 40.666879, -74.0253309, 40.769124]",Feature,b046074b1030a44d,Jersey City,city
+601,United States,US,"Jefferson City, MO","[-92.312792, 38.484463, -92.042823, 38.620738]",Feature,01cace72701072d0,Jefferson City,city
+602,United States,US,"Fairhaven, MA","[-70.918269, 41.581994, -70.82842, 41.66835]",Feature,00a9bbe23141c4cb,Fairhaven,city
+603,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+604,Ghana,GH,Ecobank Abeka,"[-0.24822798007086574, 5.606749185039349, -0.24822798007086574, 5.606749185039349]",Feature,07d9f5fd69080001,Ecobank Abeka,poi
+605,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+606,Ghana,GH,"Central, Ghana","[-2.2033576, 5.0318184, -0.3913921, 6.3125794]",Feature,01ac327903b9ad94,Central,admin
+607,India,IN,"Cuttack, India","[85.73406, 20.03944, 86.28391, 20.699481]",Feature,4c0554de3037a1cd,Cuttack,city
+608,United States,US,"South Carolina, USA","[-83.353955, 32.04683, -78.499301, 35.215449]",Feature,6057f1e35bcc6c20,South Carolina,admin
+609,United States,US,"Shively, KY","[-85.8516052, 38.170899, -85.78059, 38.2207779]",Feature,edbc1ac7f306fad2,Shively,city
+610,Afghanistan,AF,Afghanistan,"[60.4784431, 29.3774719, 74.879448, 38.4834175]",Feature,9ac7aa903ba29bd1,Afghanistan,country
+611,India,IN,"Haora, India","[88.014244, 22.396021, 88.421124, 23.02195]",Feature,3135579c0c859cee,Haora,city
+612,United States,US,"San Rafael, CA","[-122.592422, 37.9426184, -122.449033, 38.030467]",Feature,322ed6e7cc8ff243,San Rafael,city
+613,Ghana,GH,Sowutuom,"[-0.2749002438601406, 5.614101796131097, -0.2749002438601406, 5.614101796131097]",Feature,07d9d66bce488000,Sowutuom,poi
+614,Uganda,UG,"Kampala, Uganda","[32.4166234, 0.1648531, 32.7216969, 0.4136818]",Feature,000c69ad123213a8,Kampala,admin
+615,Ghana,GH,silver lounge,"[-0.23954899383365302, 5.613850388587522, -0.23954899383365302, 5.613850388587522]",Feature,07d9d75708c87002,silver lounge,poi
+616,Canada,CA,"Leamington, Ontario","[-82.669474, 41.676382, -82.4578386, 42.1717111]",Feature,026295a852d62c2c,Leamington,city
+617,United States,US,"Haslett, MI","[-84.483739, 42.731229, -84.350094, 42.787887]",Feature,4399b5004a3b4d9a,Haslett,city
+618,United States,US,"Rockwall, TX","[-96.495323, 32.864021, -96.35829, 32.977061]",Feature,14b7e6a78837521a,Rockwall,city
+619,Ghana,GH,Nii Boi town,"[-0.245996186781934, 5.616134912715298, -0.245996186781934, 5.616134912715298]",Feature,07d9e87205c85004,Nii Boi town,poi
+620,Ghana,GH,Lapaz,"[-0.2495662008711928, 5.606241565461488, -0.2495662008711928, 5.606241565461488]",Feature,07d9f62754085003,Lapaz,poi
+621,Ghana,GH,New Market,"[-0.2597655350193228, 5.608556206695636, -0.2597655350193228, 5.608556206695636]",Feature,086c39c96d140000,New Market,poi
+622,Canada,CA,"Brampton, Ontario","[-79.888911, 43.60222, -79.630272, 43.847722]",Feature,1f4df2b4746ddea7,Brampton,city
+623,Nigeria,NG,"Ojo, Nigeria","[3.1000926, 6.4481668, 3.2378639, 6.5194214]",Feature,001c0a9c3c005adf,Ojo,city
+624,United Kingdom,GB,"Manchester, England","[-2.319934, 53.343623, -2.147026, 53.5702824]",Feature,315b740b108481f6,Manchester,city
+625,United States,US,"Berwyn, IL","[-87.8041444, 41.821108, -87.777785, 41.8654093]",Feature,e363b61fbd793d7d,Berwyn,city
+626,United Kingdom,GB,"Middlesbrough, England","[-1.278461, 54.5282785, -1.166542, 54.59055]",Feature,2dc53e413a6cbcd8,Middlesbrough,city
+627,Hong Kong,HK,"Central & Western District, Hong Kong","[114.1099112, 22.2520847, 114.169855, 22.3016546]",Feature,011a1d1e753ec5a8,Central & Western District,admin
+628,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+629,United Kingdom,GB,"Coventry, England","[-1.6128929, 52.3653979, -1.4244104, 52.458428]",Feature,52bb236ce4bb9be1,Coventry,city
+630,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+631,United States,US,Red Oaks Nature Center,"[-83.09343766630522, 42.515678362580935, -83.09343766630522, 42.515678362580935]",Feature,0fc29a210b95e000,Red Oaks Nature Center,poi
+632,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+633,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+634,United States,US,"Isla Vista, CA","[-119.881745, 34.404565, -119.828412, 34.438713]",Feature,d82e2984d5b9a65e,Isla Vista,city
+635,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+636,Ghana,GH,"Greater Accra, Ghana","[-0.495283, 5.4812804, 0.6719668, 6.1058921]",Feature,018d4410153dc23b,Greater Accra,admin
+637,United Kingdom,GB,"Hagley, England","[-2.156924, 52.41278, -2.11911, 52.4309977]",Feature,73fc1c4985d5024a,Hagley,city
+638,Canada,CA,"Edmonton, Alberta","[-113.71368, 53.395531, -113.271555, 53.7161084]",Feature,6a6d896ba1cb5dc4,Edmonton,city
+639,United States,US,"Gardner, KS","[-94.964408, 38.788889, -94.871212, 38.855976]",Feature,00f1f5014dc531da,Gardner,city
+640,Italy,IT,"Nettuno, Lazio","[12.6180039, 41.4084135, 12.7777683, 41.5397433]",Feature,3b18bc168701faee,Nettuno,city
+641,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+642,South Africa,ZA,"Milnerton, South Africa","[18.4350199, -33.9208993, 18.5572133, -33.7259229]",Feature,5ccdc4a6f900a93f,Milnerton,city
+643,United States,US,"Shelby, OH","[-82.690527, 40.856061, -82.629549, 40.908483]",Feature,7e74ba741c88276e,Shelby,city
+644,Canada,CA,"New Westminster, British Columbia","[-122.9599826, 49.175445, -122.8750325, 49.238058]",Feature,33de55bc584a42ec,New Westminster,city
+645,United States,US,"San Antonio, TX","[-98.778559, 29.141956, -98.302744, 29.693046]",Feature,3df4f427b5a60fea,San Antonio,city
+646,United Kingdom,GB,"Eastbourne, England","[0.244138, 50.750758, 0.3280998, 50.8132927]",Feature,3dc7b71f520e2d15,Eastbourne,city
+647,United States,US,"Alaska, USA","[-179.231086, 51.175093, 179.859685, 71.434357]",Feature,07179f4fe0500a32,Alaska,admin
+648,Canada,CA,"Fredericton, New Brunswick","[-66.783402, 45.868781, -66.549753, 46.022143]",Feature,349f43f819b079b9,Fredericton,city
+649,United States,US,"Desert Hot Springs, CA","[-116.57552, 33.917616, -116.457506, 33.991559]",Feature,4ead8537112abb01,Desert Hot Springs,city
+650,Nigeria,NG,"Victoria Island, Nigeria","[3.4023218, 6.3962643, 3.6013694, 6.4867971]",Feature,01ed1f9a43bfb9bd,Victoria Island,city
+651,United States,US,"Leander, TX","[-97.8978979, 30.5247015, -97.795581, 30.612656]",Feature,be1ec4774a795507,Leander,city
+652,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+653,Canada,CA,"Surrey, British Columbia","[-122.958937, 49.001921, -122.678035, 49.221117]",Feature,09efd2065c8ce28e,Surrey,city
+654,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+655,Nigeria,NG,"Ojo, Nigeria","[3.1000926, 6.4481668, 3.2378639, 6.5194214]",Feature,001c0a9c3c005adf,Ojo,city
+656,United Kingdom,GB,"Islington, London","[-0.1420579, 51.5185518, -0.076305, 51.575301]",Feature,544762ebf7fda780,Islington,city
+657,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+658,United States,US,"Ruston, LA","[-92.695547, 32.496312, -92.572122, 32.577488]",Feature,35a6dd7f550504c4,Ruston,city
+659,United States,US,"Framingham, MA","[-71.4971703, 42.257263, -71.374193, 42.352931]",Feature,dbd1411661903bb0,Framingham,city
+660,United States,US,"Honolulu, HI","[-157.950476, 21.254837, -157.648702, 21.38505]",Feature,c47c0bc571bf5427,Honolulu,city
+661,United States,US,"Lancaster, TX","[-96.823367, 32.559599, -96.747695, 32.649973]",Feature,0557e33c3bef86ac,Lancaster,city
+662,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+663,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+664,Canada,CA,"Edmonton, Alberta","[-113.71368, 53.395531, -113.271555, 53.7161084]",Feature,6a6d896ba1cb5dc4,Edmonton,city
+665,United States,US,"Northborough, MA","[-71.689727, 42.278763, -71.5956386, 42.359614]",Feature,5c56ca6e2b62216a,Northborough,city
+666,Somalia,SO,Somalia,"[40.9886682, -1.6603619, 51.4154958, 11.9880685]",Feature,2e09439cac5c7992,Somalia,country
+667,United States,US,"O'Fallon, MO","[-90.772734, 38.71256, -90.632554, 38.846753]",Feature,e4c447e00985824a,O'Fallon,city
+668,United Kingdom,GB,"Blackpool, England","[-3.0569682, 53.80665, -3.00721, 53.8757277]",Feature,1aca7d8a9c3faae1,Blackpool,city
+669,Guyana,GY,Guyana,"[-61.3847618, 1.171061, -56.4833731, 8.52996]",Feature,23184b2af9649efa,Guyana,country
+670,Ghana,GH,Apostolic Church - Ghana(NiiBoiman Assembly,"[-0.25551542411459865, 5.606439094035026, -0.25551542411459865, 5.606439094035026]",Feature,07d9ef586a483000,Apostolic Church - Ghana(NiiBoiman Assembly,poi
+671,Ghana,GH,"Agona Swedru, Ghana","[-0.7214497, 5.5172, -0.6692376, 5.5525829]",Feature,0014e6ca6a149842,Agona Swedru,city
+672,United Kingdom,GB,"Hagley, England","[-2.156924, 52.41278, -2.11911, 52.4309977]",Feature,73fc1c4985d5024a,Hagley,city
+673,United Kingdom,GB,"Poplar, London","[-0.080028, 51.48432, 0.009989, 51.545341]",Feature,08be9e4ebe3d037d,Poplar,city
+674,United States,US,"Colorado, USA","[-109.060257, 36.992427, -102.041524, 41.003445]",Feature,e21c8e4914eef2b3,Colorado,admin
+675,South Africa,ZA,"Westonaria, South Africa","[27.6347014, -26.3486742, 27.8153178, -26.2154804]",Feature,3af151fb875b3cc1,Westonaria,city
+676,United States,US,"Birch Bay, WA","[-122.822544, 48.884702, -122.71014, 48.991271]",Feature,67215d01fd99df11,Birch Bay,city
+677,Ghana,GH,"Berekum, Ghana","[-2.6109992, 7.421978, -2.560381, 7.4744572]",Feature,00871c9341177a8b,Berekum,city
+678,United States,US,"Hamburg, NY","[-78.916774, 42.696345, -78.783331, 42.7897243]",Feature,0032b71e19053652,Hamburg,city
+679,United States,US,"Cleveland, OH","[-81.877771, 41.392684, -81.5331634, 41.599195]",Feature,0eb9676d24b211f1,Cleveland,city
+680,Hong Kong,HK,"Wan Chai District, Hong Kong","[114.163389, 22.252055, 114.2069673, 22.2912933]",Feature,01cb3bd54f92388e,Wan Chai District,admin
+681,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+682,Brazil,BR,"Itajaí, Brasil","[-48.920877, -27.096757, -48.621285, -26.8370803]",Feature,4fb3602884c3ec05,Itajaí,city
+683,United States,US,"Mesa, AZ","[-111.894548, 33.306275, -111.5805834, 33.505234]",Feature,44d207663001f00b,Mesa,city
+684,United States,US,"Calumet City, IL","[-87.579081, 41.581483, -87.525064, 41.644809]",Feature,6b745382f2cdbb67,Calumet City,city
+685,United Kingdom,GB,"Birmingham, England","[-2.033651, 52.381063, -1.74763, 52.60687]",Feature,53b67b1d1cc81a51,Birmingham,city
+686,Ghana,GH,"Greater Accra, Ghana","[-0.495283, 5.4812804, 0.6719668, 6.1058921]",Feature,018d4410153dc23b,Greater Accra,admin
+687,United States,US,"Avondale, AZ","[-112.3579993, 33.3847847, -112.272424, 33.4938064]",Feature,0015d9147cee6907,Avondale,city
+688,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+689,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+690,Ghana,GH,"Agona Swedru, Ghana","[-0.7214497, 5.5172, -0.6692376, 5.5525829]",Feature,0014e6ca6a149842,Agona Swedru,city
+691,Ghana,GH,"Koforidua, Ghana","[-0.2960049, 6.0318484, -0.2350206, 6.127119]",Feature,015c383300a1d127,Koforidua,city
+692,Australia,AU,"Sydney, New South Wales","[150.520928608, -34.1183470085, 151.343020992, -33.578140996]",Feature,0073b76548e5984f,Sydney,city
+693,United States,US,"Hobart, IN","[-87.317258, 41.499162, -87.209636, 41.565107]",Feature,5264b8cb7f94920d,Hobart,city
+694,South Africa,ZA,"Soshanguve, South Africa","[28.0390226, -25.6078888, 28.1503403, -25.367145]",Feature,a6de57f8441398d4,Soshanguve,city
+695,United States,US,"Fenton, MI","[-83.80635, 42.75267, -83.6864972, 42.841079]",Feature,d1e16b409e42e6df,Fenton,city
+696,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+697,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+698,United States,US,"Conway, FL","[-81.351673, 28.4804335, -81.310421, 28.514743]",Feature,b6d7ab2d20c1a99c,Conway,city
+699,United States,US,"San Francisco, CA","[-122.514926, 37.708075, -122.357031, 37.833238]",Feature,5a110d312052166f,San Francisco,city
+700,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+701,United Kingdom,GB,"Hounslow, London","[-0.457966, 51.420633, -0.243419, 51.502851]",Feature,0b30aadf406d13cc,Hounslow,city
+702,Ghana,GH,"Ho, Ghana","[0.4335606, 6.5819542, 0.4918722, 6.6451268]",Feature,007690a85673314a,Ho,city
+703,Ghana,GH,"Tikrom, Ghana","[-1.519755, 6.706776, -1.4892979, 6.7427701]",Feature,0070c2366da81fc0,Tikrom,city
+704,United States,US,"Knoxville, TN","[-84.19397, 35.831436, -83.733713, 36.133505]",Feature,6565298bcadb82a1,Knoxville,city
+705,United Kingdom,GB,"Bradford, England","[-1.837304, 53.773415, -1.696336, 53.858452]",Feature,584d81d6e854d368,Bradford,city
+706,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+707,United States,US,"Helotes, TX","[-98.7647213, 29.4955658, -98.661448, 29.604798]",Feature,00a1b28251c671b8,Helotes,city
+708,Australia,AU,"Ewingsdale, New South Wales","[153.549257056, -28.665387001, 153.58220784, -28.6355404885]",Feature,012b9c0c3a61aaf1,Ewingsdale,city
+709,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+710,Canada,CA,"Coquitlam, British Columbia","[-122.893434, 49.219352, -122.618118, 49.351565]",Feature,435a15a8bf629083,Coquitlam,city
+711,United States,US,"Visalia, CA","[-119.4143986, 36.26939, -119.224654, 36.3695824]",Feature,981989c5b11d5119,Visalia,city
+712,Canada,CA,"Mascouche, Québec","[-73.700164, 45.716103, -73.526116, 45.821364]",Feature,370e82cb8dff6189,Mascouche,city
+713,Nigeria,NG,"Benin-City, Nigeria","[5.5532952, 6.2445092, 5.7292806, 6.4254003]",Feature,005dbe7e6949db42,Benin-City,city
+714,Republic of the Philippines,PH,"Makati City, National Capital Region","[120.9988804, 14.5134816, 121.0675443, 14.5795174]",Feature,017a4afa29d71c65,Makati City,city
+715,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+716,Ireland,IE,"South Dublin, Ireland","[-6.5468143, 53.178753, -6.252228, 53.3682523]",Feature,e59069aafae0aa25,South Dublin,city
+717,United States,US,"San Marcos, TX","[-97.993537, 29.840708, -97.8768464, 29.950505]",Feature,f95ca607d76de8c6,San Marcos,city
+718,United States,US,"Glen Raven, NC","[-79.499071, 36.098448, -79.426453, 36.150629]",Feature,07ee5ef1d16ed9de,Glen Raven,city
+719,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+720,Canada,CA,"Victoria, British Columbia","[-123.394397, 48.403014, -123.322362, 48.450447]",Feature,4fdbcad8c3ed7790,Victoria,city
+721,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+722,Saint Lucia,LC,Saint Lucia,"[-61.0797364, 13.7079554, -60.872973, 14.1101013]",Feature,015fd2ff54877b34,Saint Lucia,country
+723,Canada,CA,"London, Ontario","[-81.391247, 42.824496, -81.106326, 43.073185]",Feature,1795f2e3639cab31,London,city
+724,United States,US,"San Antonio, TX","[-98.778559, 29.141956, -98.302744, 29.693046]",Feature,3df4f427b5a60fea,San Antonio,city
+725,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+726,United States,US,"Hawaii, USA","[-178.443593, 18.86546, -154.755792, 28.517269]",Feature,9dafd05b1158873b,Hawaii,admin
+727,United States,US,"Tucson, AZ","[-111.083219, 32.057802, -110.747928, 32.320979]",Feature,013379ee5729a5e6,Tucson,city
+728,United States,US,"Scottsdale, AZ","[-111.960775, 33.4358637, -111.756022, 33.842816]",Feature,0a0de7bd49ef942d,Scottsdale,city
+729,India,IN,"Aligarh, India","[78.028739, 27.841366, 78.148531, 27.963932]",Feature,13e2481c0f45289b,Aligarh,city
+730,Mexico,MX,Atlacomulco,"[-99.21266250797173, 18.906072318784116, -99.21266250797173, 18.906072318784116]",Feature,07d9e9ab52887000,Atlacomulco,poi
+731,United States,US,"Dardenne Prairie, MO","[-90.770058, 38.721075, -90.699865, 38.784815]",Feature,a1593d049825e2b7,Dardenne Prairie,city
+732,Ghana,GH,"Ashanti, Ghana","[-2.4515585, 5.854695, -0.2381039, 7.6236528]",Feature,00f5549404af1068,Ashanti,admin
+733,Ghana,GH,Sakumono Estates,"[-0.09177788558358423, 5.629613237916012, -0.09177788558358423, 5.629613237916012]",Feature,0a63a28eab562005,Sakumono Estates,poi
+734,United States,US,"Santa Ana, CA","[-117.944051, 33.691774, -117.830826, 33.78821]",Feature,0562e9e53cddf6ec,Santa Ana,city
+735,Botswana,BW,Botswana,"[19.9976747, -26.9070352, 29.371142, -17.7782297]",Feature,8a927a7056322151,Botswana,country
+736,Nigeria,NG,"Lafia, Nigeria","[8.4906813, 8.4807268, 8.530913, 8.5397502]",Feature,0110a96f54275214,Lafia,city
+737,United States,US,"Laurel Hill, VA","[-77.257892, 38.672831, -77.234308, 38.711263]",Feature,00b7b63f6fd6b4dd,Laurel Hill,city
+738,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+739,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+740,Ghana,GH,Robert And Sons Ltd (spintex branch),"[-0.11154214124848955, 5.643147992479937, -0.11154214124848955, 5.643147992479937]",Feature,07d9e83974085002,Robert And Sons Ltd (spintex branch),poi
+741,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+742,Nigeria,NG,"Ibadan, Nigeria","[3.7770114, 7.2991429, 4.0335816, 7.5590064]",Feature,0065f09a6666479e,Ibadan,city
+743,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+744,United States,US,"Eastvale, CA","[-117.6110675, 33.9251972, -117.549003, 34.03349]",Feature,007b3322101aab55,Eastvale,city
+745,Portugal,PT,"Almada, Portugal","[-9.2632624, 38.5502991, -8.9514298, 38.7822109]",Feature,120248073af6ca31,Almada,city
+746,France,FR,"La Roche-sur-Foron, France","[6.2508027, 46.0054267, 6.3500569, 46.0857292]",Feature,0e64066c39ec8fd1,La Roche-sur-Foron,city
+747,Australia,AU,"Brisbane, Queensland","[152.668522848, -27.767440994, 153.31787024, -26.996844991]",Feature,004ec16c62325149,Brisbane,city
+748,Ghana,GH,"Berekum, Ghana","[-2.6109992, 7.421978, -2.560381, 7.4744572]",Feature,00871c9341177a8b,Berekum,city
+749,Malaysia,MY,"Mukah, Sarawak","[111.9709582, 2.583957, 112.7360888, 3.0656567]",Feature,98d9f4848be77e2c,Mukah,city
+750,United States,US,"Sault Ste Marie, MI","[-84.454161, 46.455438, -84.300045, 46.5023156]",Feature,66a04e4c9e4a39d4,Sault Ste Marie,city
+751,Ghana,GH,Barclays Bank,"[-0.24811340851046346, 5.617325824478678, -0.24811340851046346, 5.617325824478678]",Feature,07d9ef8d41488001,Barclays Bank,poi
+752,United Kingdom,GB,"Stocksfield, England","[-1.919428, 54.930052, -1.894793, 54.950008]",Feature,1101b428ebf6a8c5,Stocksfield,city
+753,Kingdom of Saudi Arabia,SA,Ibis Hotels,"[39.173795, 21.552992, 39.173795, 21.552992]",Feature,10f831a87e57b001,Ibis Hotels,poi
+754,Ghana,GH,"Berekum, Ghana","[-2.6109992, 7.421978, -2.560381, 7.4744572]",Feature,00871c9341177a8b,Berekum,city
+755,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+756,United States,US,"Fargo, ND","[-96.903853, 46.787881, -96.756332, 46.941884]",Feature,5c8fea63bc3faa5b,Fargo,city
+757,United States,US,"Albuquerque, NM","[-106.7916912, 35.0158912, -106.473745, 35.218114]",Feature,813a485b26b8dae2,Albuquerque,city
+758,Indonesia,ID,"Cimanggis, Indonesia","[106.842899, -6.449577, 106.93835, -6.334396]",Feature,9e47c8239078e9c7,Cimanggis,city
+759,United States,US,"Newburgh, NY","[-74.116963, 41.487948, -74.004603, 41.519289]",Feature,0047e81d7db6c89a,Newburgh,city
+760,United States,US,Burma 2,"[-122.061276, 37.900898, -122.061276, 37.900898]",Feature,0fd50c87a9946000,Burma 2,poi
+761,United States,US,"Levittown, NY","[-73.545679, 40.6999931, -73.484061, 40.74357]",Feature,364a45c10832ed51,Levittown,city
+762,United States,US,"Garland, TX","[-96.706144, 32.829815, -96.537124, 32.985469]",Feature,7c01d867b8e8c494,Garland,city
+763,United Kingdom,GB,"York, England","[-1.147268, 53.9280019, -1.0233813, 54.004411]",Feature,0c4f58af36a910a6,York,city
+764,United States,US,"Tampa, FL","[-82.620093, 27.821353, -82.2652945, 28.171836]",Feature,dc62519fda13b4ec,Tampa,city
+765,United States,US,"Staten Island, NY","[-74.255641, 40.495865, -74.052253, 40.648887]",Feature,00c55f041e27dc51,Staten Island,city
+766,Ghana,GH,Sakumono Estates,"[-0.09177788558358423, 5.629613237916012, -0.09177788558358423, 5.629613237916012]",Feature,0a63a28eab562005,Sakumono Estates,poi
+767,United Kingdom,GB,"Wandsworth, London","[-0.259465, 51.417277, -0.127974, 51.486036]",Feature,460c5314e8a33c64,Wandsworth,city
+768,Ghana,GH,"Greater Accra, Ghana","[-0.495283, 5.4812804, 0.6719668, 6.1058921]",Feature,018d4410153dc23b,Greater Accra,admin
+769,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+770,Canada,CA,"Waterloo, Ontario","[-80.626184, 43.432944, -80.467648, 43.531359]",Feature,33ad9818da34b8ec,Waterloo,city
+771,Ghana,GH,Tops N Tails Retaurant & Bar,"[-0.09761203447397955, 5.63257594810717, -0.09761203447397955, 5.63257594810717]",Feature,0846a17ff1d62003,Tops N Tails Retaurant & Bar,poi
+772,United States,US,"Richmond, CA","[-122.420497, 37.895308, -122.3043308, 38.002378]",Feature,029dd1f28dbd3d26,Richmond,city
+773,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+774,United States,US,"Ohio, USA","[-84.8203089, 38.403186, -80.518626, 42.327133]",Feature,de599025180e2ee7,Ohio,admin
+775,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+776,India,IN,"Betul, India","[77.88248, 21.89258, 77.921273, 21.922317]",Feature,6eab32740ed3f544,Betul,city
+777,United States,US,"La Puente, CA","[-117.98558, 34.009223, -117.920899, 34.0572978]",Feature,e04653ebc39b100c,La Puente,city
+778,United States,US,"Seattle, WA","[-122.436232, 47.4953154, -122.2249728, 47.734319]",Feature,300bcc6e23a88361,Seattle,city
+779,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+780,United States,US,"Gleneagle, CO","[-104.8474461, 39.0272851, -104.810682, 39.056623]",Feature,472859b07b6dc7b2,Gleneagle,city
+781,Ghana,GH,Unibank Headoffice,"[-0.2076678369534132, 5.5726363722403125, -0.2076678369534132, 5.5726363722403125]",Feature,07d9e67c81081000,Unibank Headoffice,poi
+782,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+783,Ghana,GH,Sowutuom,"[-0.2749002438601406, 5.614101796131097, -0.2749002438601406, 5.614101796131097]",Feature,07d9d66bce488000,Sowutuom,poi
+784,United States,US,"Sarasota, FL","[-82.588866, 27.293114, -82.477281, 27.389129]",Feature,5acc3a887617d093,Sarasota,city
+785,United States,US,"Mission Bend, TX","[-95.681932, 29.6808922, -95.6341997, 29.7199015]",Feature,2a9e190efe38237e,Mission Bend,city
+786,United States,US,"Ayres, AL","[-86.5713945, 33.716716, -86.551405, 33.7435223]",Feature,00f58d425b96da52,Ayres,city
+787,United States,US,"Erie, PA","[-80.239991, 42.018414, -79.934073, 42.202992]",Feature,29aaa88d9fe74b50,Erie,city
+788,United Kingdom,GB,"Scarborough, England","[-0.46006, 54.24378, -0.372699, 54.306477]",Feature,4827c143cf972a3d,Scarborough,city
+789,Ghana,GH,"Tema, Ghana","[-0.0817078, 5.613502, 0.0437508, 5.7925418]",Feature,01a4a1e153e55b20,Tema,city
+790,United Kingdom,GB,"Bilston, Scotland","[-3.187766, 55.866411, -3.177037, 55.872291]",Feature,6f471ae6eed7f4c1,Bilston,city
+791,United Kingdom,GB,"West Midlands, England","[-3.23560072135158, 51.8259029271059, -1.17213601934124, 53.2262100153425]",Feature,60160252aeb7e3e5,West Midlands,admin
+792,United States,US,"Acworth, GA","[-84.7035585, 34.0273996, -84.6319069, 34.0786271]",Feature,48ba5260384714a9,Acworth,city
+793,United Kingdom,GB,"Widnes, England","[-2.784107, 53.341503, -2.697338, 53.395284]",Feature,08cbe688c95171d1,Widnes,city
+794,Ghana,GH,Cida's Beauty Parlour,"[-0.25998481446961647, 5.61361549524178, -0.25998481446961647, 5.61361549524178]",Feature,07d9cd19a5880000,Cida's Beauty Parlour,poi
+795,United States,US,"Fairfield, CA","[-122.163438, 38.157928, -121.922511, 38.308796]",Feature,6da7626e4e9e26ba,Fairfield,city
+796,United States,US,"St Paul, MN","[-93.207783, 44.8907521, -93.003514, 44.992279]",Feature,60e2c37980197297,St Paul,city
+797,United States,US,"Knoxville, TN","[-84.19397, 35.831436, -83.733713, 36.133505]",Feature,6565298bcadb82a1,Knoxville,city
+798,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+799,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+800,Ghana,GH,Hydraform Estate,"[-0.10836622740867764, 5.627823022372326, -0.10836622740867764, 5.627823022372326]",Feature,07d9e06a0e882000,Hydraform Estate,poi
+801,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+802,Central African Republic,CF,Central African Republic,"[14.4150486, 2.2274722, 27.4668937, 11.017915]",Feature,12ff487cb5a05ff7,Central African Republic,country
+803,United States,US,"Florence, SC","[-79.918523, 34.110516, -79.642093, 34.254807]",Feature,d49251f0d0a2652d,Florence,city
+804,United States,US,"Fountain Hills, AZ","[-111.7834, 33.567198, -111.698379, 33.640623]",Feature,5faafada28b440c3,Fountain Hills,city
+805,United States,US,"Garner, NC","[-78.680998, 35.649142, -78.546396, 35.731468]",Feature,0a960df1a2b0abaf,Garner,city
+806,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+807,United States,US,"Gleneagle, CO","[-104.8474461, 39.0272851, -104.810682, 39.056623]",Feature,472859b07b6dc7b2,Gleneagle,city
+808,United States,US,"Boston, MA","[-71.191421, 42.227797, -70.986004, 42.399542]",Feature,67b98f17fdcf20be,Boston,city
+809,Japan,JP,"Osaka City Suminoe Ward, Osaka","[135.398894070456, 34.5946359987684, 135.495531000962, 34.6446067775617]",Feature,6594b6f47e9b9211,Osaka City Suminoe Ward,city
+810,United States,US,"Nashville, TN","[-87.022482, 35.9945681, -86.560616, 36.405448]",Feature,00ab941b685334e3,Nashville,city
+811,Sierra Leone,SL,Sierra Leone,"[-13.4307965, 6.7938865, -10.2747536, 10.0002944]",Feature,1e228be254cad957,Sierra Leone,country
+812,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+813,United States,US,"Visalia, CA","[-119.4143986, 36.26939, -119.224654, 36.3695824]",Feature,981989c5b11d5119,Visalia,city
+814,United States,US,"Carrollwood, FL","[-82.5439892, 28.033407, -82.479582, 28.084798]",Feature,5bf268a34de4d516,Carrollwood,city
+815,Canada,CA,"Montréal, Québec","[-73.972965, 45.410095, -73.473085, 45.705566]",Feature,36775d842cbec509,Montréal,city
+816,United States,US,"Pine Knoll Shores, NC","[-76.866695, 34.688347, -76.7818518, 34.704569]",Feature,7f9b4270faa23e7f,Pine Knoll Shores,city
+817,United States,US,"Loveladies, NJ","[-74.13581, 39.710946, -74.114559, 39.741802]",Feature,015b19eb200ee99b,Loveladies,city
+818,United States,US,"Mobile, AL","[-88.301598, 30.523874, -88.021513, 30.843424]",Feature,d049033410e9e81b,Mobile,city
+819,Ireland,IE,Clontarf / Cluain Tarbh,"[-6.191396713256836, 53.36392125381752, -6.191396713256836, 53.36392125381752]",Feature,0fc35c39ad14d000,Clontarf / Cluain Tarbh,poi
+820,United States,US,"Candler-McAfee, GA","[-84.309736, 33.712266, -84.230819, 33.739899]",Feature,7202b2c7918d203e,Candler-McAfee,city
+821,United States,US,"Jefferson City, MO","[-92.312792, 38.484463, -92.042823, 38.620738]",Feature,01cace72701072d0,Jefferson City,city
+822,United States,US,"Atascocita, TX","[-95.2497924, 29.9122421, -95.135568, 30.033094]",Feature,38d0e797745f4c5d,Atascocita,city
+823,Republic of the Philippines,PH,"Bacoor, Calabarzon","[120.9272236, 14.3576337, 121.0117792, 14.5032792]",Feature,00913613698f59d9,Bacoor,city
+824,United States,US,"Glendora, CA","[-117.890263, 34.1054901, -117.809111, 34.165551]",Feature,eb1bb64775708bc1,Glendora,city
+825,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+826,United Kingdom,GB,"Yorkshire and The Humber, England","[-2.56475248726412, 53.3015341502953, 0.149787002205902, 54.5621550270294]",Feature,4efd6fc8c50fae33,Yorkshire and The Humber,admin
+827,United States,US,"Gleneagle, CO","[-104.8474461, 39.0272851, -104.810682, 39.056623]",Feature,472859b07b6dc7b2,Gleneagle,city
+828,Canada,CA,"Hamilton, Ontario","[-80.248423, 43.050553, -79.578618, 43.470838]",Feature,4939b600461c30a4,Hamilton,city
+829,United States,US,"Blaine, MN","[-93.2675093, 45.118886, -93.142602, 45.21178]",Feature,7f659be5193a576e,Blaine,city
+830,United States,US,"West Carson, CA","[-118.299695, 33.797809, -118.285186, 33.846342]",Feature,1d62d313a45d799f,West Carson,city
+831,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+832,Nigeria,NG,"Enugu, Nigeria","[7.4542209, 6.377634, 7.5868623, 6.5048626]",Feature,01aca86a155c9099,Enugu,city
+833,United Kingdom,GB,"Manchester, England","[-2.319934, 53.343623, -2.147026, 53.5702824]",Feature,315b740b108481f6,Manchester,city
+834,Ghana,GH,"Tema, Ghana","[-0.0817078, 5.613502, 0.0437508, 5.7925418]",Feature,01a4a1e153e55b20,Tema,city
+835,United States,US,"Burlington, NJ","[-74.89812, 40.024738, -74.797662, 40.1164976]",Feature,0b54403ae9948a6c,Burlington,city
+836,United States,US,"Coral Gables, FL","[-80.297165, 25.627038, -80.245009, 25.771859]",Feature,778af41ffb719450,Coral Gables,city
+837,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+838,United States,US,"Oxnard, CA","[-119.248624, 34.101755, -119.082154, 34.262157]",Feature,a3c0ae863771d69e,Oxnard,city
+839,United States,US,"Tennessee, USA","[-90.310298, 34.982924, -81.646901, 36.678119]",Feature,7f7d58e5229c6b6c,Tennessee,admin
+840,United States,US,"Waverly, MI","[-84.720053, 42.681889, -84.60259, 42.78436]",Feature,011071d81596fbba,Waverly,city
+841,United Kingdom,GB,"Alcester, England","[-1.881079, 52.20949, -1.853123, 52.227807]",Feature,6e648cd1dfa7a29c,Alcester,city
+842,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+843,United States,US,"Rowland Heights, CA","[-117.931166, 33.945518, -117.850306, 34.0005743]",Feature,a5655a07276e4caf,Rowland Heights,city
+844,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+845,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+846,India,IN,"Bengaluru, India","[77.373474, 12.919037, 77.739371, 13.231381]",Feature,1b8680cd52a711cb,Bengaluru,city
+847,United Kingdom,GB,"Widnes, England","[-2.784107, 53.341503, -2.697338, 53.395284]",Feature,08cbe688c95171d1,Widnes,city
+848,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+849,United States,US,"Stratmoor, CO","[-104.798946, 38.752793, -104.757087, 38.7889087]",Feature,c24cda552a12f9d0,Stratmoor,city
+850,United States,US,"Mobile, AL","[-88.301598, 30.523874, -88.021513, 30.843424]",Feature,d049033410e9e81b,Mobile,city
+851,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+852,The Netherlands,NL,"Meppel, Nederland","[6.1201905, 52.6680359, 6.2867975, 52.7731835]",Feature,1f662869b2c35d06,Meppel,city
+853,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+854,United States,US,"Manchester, CT","[-72.583489, 41.733619, -72.465121, 41.820226]",Feature,f1d134c7fd204d74,Manchester,city
+855,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+856,United States,US,"Metairie, LA","[-90.2376122, 29.968359, -90.119647, 30.034129]",Feature,743df94d8dcb69a6,Metairie,city
+857,United States,US,"Leominster, MA","[-71.813501, 42.4762, -71.702186, 42.573956]",Feature,c4f1830ea4b8caaf,Leominster,city
+858,United States,US,"Santa Clarita, CA","[-118.6278742, 34.3474831, -118.3786434, 34.483779]",Feature,f9c0877820b7848a,Santa Clarita,city
+859,New Zealand,NZ,"Kapiti Coast District, New Zealand","[174.868496, -41.013315, 175.425313, -40.700334]",Feature,007b49642452a60d,Kapiti Coast District,city
+860,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+861,United States,US,"Ellettsville, IN","[-86.641027, 39.1880005, -86.573615, 39.246468]",Feature,0189ad6f6814c778,Ellettsville,city
+862,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+863,United States,US,"Delaware, USA","[-75.7887564, 38.4510398, -74.984165, 39.839007]",Feature,3f5897b87d2bf56c,Delaware,admin
+864,India,IN,India,"[67.997691, 6.622513, 97.170672, 33.254896]",Feature,b850c1bfd38f30e0,India,country
+865,United Kingdom,GB,"Middleton, England","[-2.925107, 54.013754, -2.7875835, 54.0818374]",Feature,7ebc196d98b7016e,Middleton,city
+866,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+867,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+868,United States,US,"Walled Lake, MI","[-83.5030288, 42.525394, -83.462681, 42.5588848]",Feature,55d0cde7e13301c5,Walled Lake,city
+869,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+870,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+871,United States,US,"Seattle, WA","[-122.436232, 47.4953154, -122.2249728, 47.734319]",Feature,300bcc6e23a88361,Seattle,city
+872,Colombia,CO,"Medellín, Colombia","[-75.7316530015595, 6.16605899574181, -75.5067729989301, 6.37570699956419]",Feature,00698bbe577bad5b,Medellín,city
+873,Canada,CA,"Vancouver, British Columbia","[-123.224215, 49.19854, -123.022947, 49.316738]",Feature,1e5cb4d0509db554,Vancouver,city
+874,Iraq,IQ,Iraq,"[38.7947010004891, 29.0717100004153, 48.5759079995109, 37.3780399995847]",Feature,b62cd77425868341,Iraq,country
+875,United States,US,"Indianapolis, IN","[-86.348441, 39.631677, -85.937404, 39.927448]",Feature,018929347840059e,Indianapolis,city
+876,United Kingdom,GB,"Chesham, South East","[-0.6580703, 51.687386, -0.5814257, 51.726722]",Feature,3eb1d4cd2329c3a8,Chesham,city
+877,United Kingdom,GB,"Clowne, England","[-1.275768, 53.265979, -1.242374, 53.28186]",Feature,6a4010a483dd5aeb,Clowne,city
+878,United Kingdom,GB,"South West, England","[-6.36850399906372, 49.8824720005481, -1.48573420014269, 52.1125420344225]",Feature,25d3e991f5637f5a,South West,admin
+879,United States,US,"Red Hook, NY","[-73.925782, 41.972511, -73.846122, 42.046203]",Feature,00f2e9814fd2f13f,Red Hook,city
+880,Ireland,IE,"Limerick, Ireland","[-9.3668222, 52.2799713, -8.1558156, 52.7568583]",Feature,54e862bb3ff2f749,Limerick,city
+881,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+882,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+883,United States,US,"Suwanee, GA","[-84.107404, 34.001413, -84.024808, 34.096528]",Feature,7b01e60536219287,Suwanee,city
+884,United States,US,"Boulder, CO","[-105.3017759, 39.953552, -105.183597, 40.094411]",Feature,fd70c22040963ac7,Boulder,city
+885,United Kingdom,GB,"Poplar, London","[-0.080028, 51.48432, 0.009989, 51.545341]",Feature,08be9e4ebe3d037d,Poplar,city
+886,United States,US,"Alpharetta, GA","[-84.3592169, 34.028083, -84.201172, 34.118605]",Feature,01ac4c9b51fa2e35,Alpharetta,city
+887,United States,US,"Greer, SC","[-82.34636, 34.84665, -82.132484, 35.030719]",Feature,50d31ecdad5158be,Greer,city
+888,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+889,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+890,United States,US,"Goodyear, AZ","[-112.508916, 33.317555, -112.341035, 33.50819]",Feature,00fae4950337e465,Goodyear,city
+891,United Kingdom,GB,"Edinburgh, Scotland","[-3.3285119, 55.894729, -3.077505, 55.991662]",Feature,7ae9e2f2ff7a87cd,Edinburgh,city
+892,United States,US,"Los Altos, CA","[-122.129474, 37.329932, -122.060782, 37.406473]",Feature,6a4364ea6f987c10,Los Altos,city
+893,South Africa,ZA,"Cape Town, South Africa","[18.3180332, -34.35839, 18.6600898, -33.8849254]",Feature,8b9ec16fdc0d7e55,Cape Town,city
+894,United Kingdom,GB,"Yate, England","[-2.4479209, 51.5230264, -2.3971436, 51.5613671]",Feature,74e5f4da1958ccf9,Yate,city
+895,United States,US,"The Villages, FL","[-82.040502, 28.8635719, -81.953293, 28.982092]",Feature,010953890c6dac04,The Villages,city
+896,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+897,Canada,CA,"Vaudreuil-Dorion, Québec","[-74.229399, 45.334046, -73.957929, 45.467656]",Feature,4c9577e9ad4a40dd,Vaudreuil-Dorion,city
+898,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+899,United States,US,Our Lady Of Good Voyage,"[-71.045502, 42.352764, -71.045502, 42.352764]",Feature,07d9e601ac887003,Our Lady Of Good Voyage,poi
+900,United States,US,"Hampton, VA","[-76.451006, 36.989568, -76.273546, 37.112225]",Feature,2f5f5ba43ec2f5a9,Hampton,city
+901,United States,US,"Los Altos, CA","[-122.129474, 37.329932, -122.060782, 37.406473]",Feature,6a4364ea6f987c10,Los Altos,city
+902,Malaysia,MY,"Sungai Segamat, Johor","[102.7900391, 2.4660157, 103.0092452, 2.5959682]",Feature,d908404d88e25575,Sungai Segamat,city
+903,United Kingdom,GB,"Cholsey, England","[-1.163482, 51.56667, -1.134227, 51.580324]",Feature,69197d512e0060c3,Cholsey,city
+904,United Kingdom,GB,"Banknock, Scotland","[-3.9715601, 55.985319, -3.9442205, 55.9917431]",Feature,0ce49a34d571213d,Banknock,city
+905,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+906,Indonesia,ID,"Cimanggis, Indonesia","[106.842899, -6.449577, 106.93835, -6.334396]",Feature,9e47c8239078e9c7,Cimanggis,city
+907,United States,US,"Pepper Pike, OH","[-81.490173, 41.452178, -81.437524, 41.50135]",Feature,c040fa5d76a0ce3b,Pepper Pike,city
+908,United Kingdom,GB,"North West, England","[-3.64063699761414, 52.9471313094526, -1.90962598338825, 55.1888787527094]",Feature,0cbfb5dccb8131b8,North West,admin
+909,Portugal,PT,"Oeiras, Portugal","[-9.3296656, 38.673112, -9.2112113, 38.7519603]",Feature,af9b4adab9fc362c,Oeiras,city
+910,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+911,United States,US,"San Juan, USA","[-66.125093, 18.29645, -65.991643, 18.471881]",Feature,547fe91108bd744c,San Juan,city
+912,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+913,United States,US,"Surprise, AZ","[-112.46036, 33.5795655, -112.298534, 33.713743]",Feature,4894f2226f25db16,Surprise,city
+914,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+915,South Africa,ZA,Uitzicht,"[18.685894314588733, -33.816325515878525, 18.685894314588733, -33.816325515878525]",Feature,07d9cae35f086000,Uitzicht,poi
+916,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+917,United States,US,"Downey, CA","[-118.1704294, 33.90245, -118.090423, 33.972897]",Feature,07dccb89e8f25a8f,Downey,city
+918,United Kingdom,GB,"Desborough, England","[-0.8385403, 52.4344491, -0.7996245, 52.4482521]",Feature,115eeceaf7000eef,Desborough,city
+919,Republic of Korea,KR,"Gwangmyeong-si, Republic of Korea","[126.848846889844, 37.3967949013181, 126.904122675263, 37.4935756216776]",Feature,01495420553bd704,Gwangmyeong-si,city
+920,United Kingdom,GB,"West Midlands, England","[-3.23560072135158, 51.8259029271059, -1.17213601934124, 53.2262100153425]",Feature,60160252aeb7e3e5,West Midlands,admin
+921,Nigeria,NG,"Ojo, Nigeria","[3.1000926, 6.4481668, 3.2378639, 6.5194214]",Feature,001c0a9c3c005adf,Ojo,city
+922,United States,US,"South Carolina, USA","[-83.353955, 32.04683, -78.499301, 35.215449]",Feature,6057f1e35bcc6c20,South Carolina,admin
+923,Nigeria,NG,"Kaduna, Nigeria","[7.3566227, 10.4252617, 7.4880222, 10.5972283]",Feature,006c6743642cb09c,Kaduna,city
+924,Republic of Korea,KR,"Gwangmyeong-si, Republic of Korea","[126.848846889844, 37.3967949013181, 126.904122675263, 37.4935756216776]",Feature,01495420553bd704,Gwangmyeong-si,city
+925,United States,US,"Ellettsville, IN","[-86.641027, 39.1880005, -86.573615, 39.246468]",Feature,0189ad6f6814c778,Ellettsville,city
+926,United States,US,"Chattanooga, TN","[-85.404424, 34.983674, -85.080704, 35.2002354]",Feature,3b3916ee31cfc9e6,Chattanooga,city
+927,United States,US,"Azusa, CA","[-117.9491871, 34.10673, -117.881336, 34.169447]",Feature,59105f0e84773bdd,Azusa,city
+928,United States,US,"Baton Rouge, LA","[-91.218994, 30.354161, -90.962605, 30.5640391]",Feature,c7ef5f3368b68777,Baton Rouge,city
+929,South Africa,ZA,South Africa,"[16.4475932, -34.8342468, 32.8922934, -22.1247236]",Feature,dd9c0d7d7e07eb49,South Africa,country
+930,Uruguay,UY,"Montevideo, Uruguay","[-56.430439, -34.937896, -56.029341, -34.701599]",Feature,01a9dbb9232f0fac,Montevideo,admin
+931,United Kingdom,GB,"Shap, England","[-2.680977, 54.51839, -2.667797, 54.535521]",Feature,6c6750c90901e9ba,Shap,city
+932,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+933,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+934,Australia,AU,"Newcastle, New South Wales","[151.555001504, -33.120457027, 151.824398944, -32.8328690325]",Feature,01cc83b303f0c068,Newcastle,city
+935,United Kingdom,GB,"Hoylake, England","[-3.199903, 53.3515827, -3.1418171, 53.408688]",Feature,09dc2601794d8aa2,Hoylake,city
+936,United States,US,"Washington, DC","[-77.119401, 38.801826, -76.909396, 38.9953797]",Feature,01fbe706f872cb32,Washington,city
+937,Republic of Korea,KR,"Gwangmyeong-si, Republic of Korea","[126.848846889844, 37.3967949013181, 126.904122675263, 37.4935756216776]",Feature,01495420553bd704,Gwangmyeong-si,city
+938,Mexico,MX,"Toluca, México","[-99.7825792, 19.0763934, -99.5287728, 19.4922499]",Feature,7027ba8eb532eb33,Toluca,city
+939,United States,US,"Milwaukee, WI","[-88.070827, 42.920822, -87.863758, 43.1926225]",Feature,2a93711775303f90,Milwaukee,city
+940,Canada,CA,"Richmond, British Columbia","[-123.304549, 49.08609, -122.957124, 49.262393]",Feature,3100dc510186d8b6,Richmond,city
+941,United Kingdom,GB,"Bewdley, England","[-2.336433, 52.369428, -2.296028, 52.38494]",Feature,773b072340eca32c,Bewdley,city
+942,United States,US,"Billerica, MA","[-71.333619, 42.518932, -71.205499, 42.612781]",Feature,01be8aa8195ae3b6,Billerica,city
+943,United Kingdom,GB,"Kingston upon Thames, London","[-0.3229167, 51.3428601, -0.234011, 51.437266]",Feature,65b23b0045f450f6,Kingston upon Thames,city
+944,United States,US,"Columbus, OH","[-83.200169, 39.832013, -82.7713751, 40.157354]",Feature,3df0e3eb1e91170b,Columbus,city
+945,United States,US,"Fort Worth, TX","[-97.538285, 32.569477, -97.033542, 32.990456]",Feature,42e46bc3663a4b5f,Fort Worth,city
+946,United Kingdom,GB,"North West, England","[-3.64063699761414, 52.9471313094526, -1.90962598338825, 55.1888787527094]",Feature,0cbfb5dccb8131b8,North West,admin
+947,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+948,United States,US,"Arlington, VA","[-77.172219, 38.827378, -77.031779, 38.934311]",Feature,319ee7b36c9149da,Arlington,city
+949,Thailand,TH,"Nonthaburi, Thailand","[100.4763023, 13.8567906, 100.5328395, 13.8853652]",Feature,00f1ec73393fb0bb,Nonthaburi,city
+950,United States,US,"Union Park, FL","[-81.25235, 28.549308, -81.22368, 28.582242]",Feature,20c796f627dd386f,Union Park,city
+951,Nigeria,NG,"Abuja, Nigeria","[7.3045544, 8.961887, 7.5436339, 9.1854407]",Feature,00e55e2b4c491c5f,Abuja,city
+952,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+953,United States,US,"Arkansas, USA","[-94.61771, 33.004106, -89.644838, 36.499767]",Feature,e8ad2641c1cb666c,Arkansas,admin
+954,Canada,CA,"Montréal, Québec","[-73.972965, 45.410095, -73.473085, 45.705566]",Feature,36775d842cbec509,Montréal,city
+955,United States,US,"Delaware, OH","[-83.126814, 40.2349065, -83.030364, 40.333339]",Feature,0122033a364ebdac,Delaware,city
+956,United States,US,"New Orleans, LA","[-90.137908, 29.889574, -89.884108, 30.075628]",Feature,dd3b100831dd1763,New Orleans,city
+957,South Africa,ZA,"Roodepoort, South Africa","[27.771294, -26.2656942, 27.9772907, -26.0197293]",Feature,1744381d2805a216,Roodepoort,city
+958,Mexico,MX,"Tampico, Tamaulipas","[-98.000277, 22.2075331, -97.833267, 22.3330571]",Feature,0128fab5ba6d2cd6,Tampico,city
+959,Canada,CA,"Vaughan, Ontario","[-79.711527, 43.749761, -79.420056, 43.924448]",Feature,78d9392bd6093265,Vaughan,city
+960,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+961,Australia,AU,"Gold Coast, Queensland","[153.186551712, -28.2003171475, 153.552171232, -27.708126368]",Feature,017453ae077eafd3,Gold Coast,city
+962,Australia,AU,"Sydney, New South Wales","[150.520928608, -34.1183470085, 151.343020992, -33.578140996]",Feature,0073b76548e5984f,Sydney,city
+963,United States,US,"Hoboken, NJ","[-74.044085, 40.7336, -74.020431, 40.7591594]",Feature,e9143a85705b4d40,Hoboken,city
+964,Mexico,MX,"Santa María Colotepec, Oaxaca","[-97.0642108, 15.7370702, -96.810439, 15.969073]",Feature,613c8ea3c77e457f,Santa María Colotepec,city
+965,United Kingdom,GB,"Ilford, London","[0.0103975, 51.543815, 0.147328, 51.626165]",Feature,00486f39ae8bd30d,Ilford,city
+966,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+967,United States,US,"Mountain Lodge Park, NY","[-74.151191, 41.379744, -74.124612, 41.3977798]",Feature,00666c492ca047a2,Mountain Lodge Park,city
+968,Singapore,SG,"North Region, Singapore","[103.696411999967, 1.33636499997564, 103.866067828959, 1.47223994098471]",Feature,14d9532bd696d8cb,North Region,admin
+969,United Kingdom,GB,"Welwyn Garden City, East","[-0.234756, 51.778888, -0.149997, 51.835367]",Feature,5a4c1fe01bde5c4a,Welwyn Garden City,city
+970,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+971,United Kingdom,GB,"Seaforth, England","[-3.058666, 53.438332, -2.950246, 53.501369]",Feature,3ba55ee536210b59,Seaforth,city
+972,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+973,United States,US,"Lake Arrowhead, CA","[-117.243514, 34.227224, -117.138867, 34.287832]",Feature,ba3324dacc8689fd,Lake Arrowhead,city
+974,United Kingdom,GB,"Cholsey, England","[-1.163482, 51.56667, -1.134227, 51.580324]",Feature,69197d512e0060c3,Cholsey,city
+975,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+976,United Kingdom,GB,"Barnet, London","[-0.2925791, 51.555179, -0.12921, 51.6685903]",Feature,7ef79c5ab17d518c,Barnet,city
+977,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+978,United States,US,"Scottsdale, AZ","[-111.960775, 33.4358637, -111.756022, 33.842816]",Feature,0a0de7bd49ef942d,Scottsdale,city
+979,United States,US,"Miami, FL","[-80.321683, 25.7090404, -80.144974, 25.855667]",Feature,04cb31bae3b3af93,Miami,city
+980,United Kingdom,GB,"Warwick, England","[-1.6138749, 52.261064, -1.5346173, 52.299529]",Feature,75e9a3ae84cb5db1,Warwick,city
+981,United States,US,"Pennsylvania, USA","[-80.519851, 39.719801, -74.689517, 42.516072]",Feature,dd9c503d6c35364b,Pennsylvania,admin
+982,United States,US,"Hialeah, FL","[-80.3563536, 25.806057, -80.252971, 25.9094066]",Feature,629f4a26fed69cd3,Hialeah,city
+983,United States,US,"Sumter, SC","[-80.501997, 33.863735, -80.303369, 34.011051]",Feature,cc3b4679df06d7c4,Sumter,city
+984,United Kingdom,GB,"London, England","[-0.187894, 51.483718, -0.109978, 51.5164655]",Feature,457b4814b4240d87,London,city
+985,United Kingdom,GB,"Livingston, Scotland","[-3.573408, 55.877556, -3.475373, 55.920115]",Feature,302574b42b6088a1,Livingston,city
+986,United Kingdom,GB,"East Midlands, England","[-2.03410488116464, 51.9772264213839, 0.357994000542651, 53.6163564980205]",Feature,50f2d0272381533f,East Midlands,admin
+987,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+988,Honduras,HN,Honduras,"[-89.3507919, 12.984911, -83.1355948, 17.417354]",Feature,d862adecd71aa2a2,Honduras,country
+989,United States,US,"Missouri, USA","[-95.774704, 35.995476, -89.098843, 40.613641]",Feature,2526edd24c06e60c,Missouri,admin
+990,United States,US,"Virginia, USA","[-83.67529, 36.540739, -75.16644, 39.466012]",Feature,5635c19c2b5078d1,Virginia,admin
+991,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+992,United Kingdom,GB,"Cardiff, Wales","[-3.278624, 51.447362, -3.0809756, 51.5466412]",Feature,68f3012fe4848e35,Cardiff,city
+993,Canada,CA,"Waterloo, Ontario","[-80.626184, 43.432944, -80.467648, 43.531359]",Feature,33ad9818da34b8ec,Waterloo,city
+994,Canada,CA,"Mississauga, Ontario","[-79.810142, 43.373074, -79.422004, 43.737414]",Feature,5c43cbdfce4d3247,Mississauga,city
+995,Republic of the Philippines,PH,"Santo Tomas, Calabarzon","[121.1249202, 13.992393, 121.2247124, 14.142625]",Feature,00d2f6976fc2e1aa,Santo Tomas,city
+996,United States,US,"Aspen Hill, MD","[-77.125438, 39.059951, -77.0338, 39.120903]",Feature,08d254a18a834e3f,Aspen Hill,city
+997,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+998,Nigeria,NG,"Rivers, Nigeria","[6.351687, 4.3176116, 7.5957889, 5.7275834]",Feature,01ca6d740243aa31,Rivers,admin
+999,Mexico,MX,"Acuña, Coahuila de Zaragoza","[-102.906352, 28.9655789, -100.848059, 29.880026]",Feature,af811f9d6d2034ec,Acuña,city
+1000,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1001,United States,US,"Minneapolis, MN","[-93.329515, 44.889964, -93.194578, 45.051257]",Feature,8e9665cec9370f0f,Minneapolis,city
+1002,Malaysia,MY,Taman TAR Jogging Track,"[101.76418639415284, 3.1596196885122665, 101.76418639415284, 3.1596196885122665]",Feature,07d9ce4bf0c85001,Taman TAR Jogging Track,poi
+1003,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+1004,Australia,AU,"Sydney, New South Wales","[150.520928608, -34.1183470085, 151.343020992, -33.578140996]",Feature,0073b76548e5984f,Sydney,city
+1005,South Africa,ZA,South Africa,"[16.4475932, -34.8342468, 32.8922934, -22.1247236]",Feature,dd9c0d7d7e07eb49,South Africa,country
+1006,United Kingdom,GB,"Lambeth, London","[-0.15191, 51.410792, -0.078902, 51.509887]",Feature,4393349f368f67a1,Lambeth,city
+1007,Kenya,KE,"Kithimani, Kenya","[37.4397573, -1.1913342, 37.4528745, -1.1788462]",Feature,007a11fd28e13455,Kithimani,city
+1008,Nigeria,NG,"Kano, Nigeria","[8.4475987, 11.9296331, 8.6073347, 12.0803669]",Feature,00611f1548c7bdef,Kano,city
+1009,Taiwan,TW,"Taipei City, Taiwan","[121.457132, 24.960508, 121.66582, 25.211004]",Feature,00180402799fed03,Taipei City,city
+1010,Nigeria,NG,"Ibadan, Nigeria","[3.7770114, 7.2991429, 4.0335816, 7.5590064]",Feature,0065f09a6666479e,Ibadan,city
+1011,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1012,United Kingdom,GB,"Cardiff, Wales","[-3.278624, 51.447362, -3.0809756, 51.5466412]",Feature,68f3012fe4848e35,Cardiff,city
+1013,United States,US,"Miami Beach, FL","[-80.147162, 25.7613083, -80.1187628, 25.872623]",Feature,0121b92345f0e2b4,Miami Beach,city
+1014,United States,US,"Dock Junction, GA","[-81.561243, 31.16527, -81.483734, 31.241614]",Feature,717e6043e53ec22f,Dock Junction,city
+1015,United States,US,"North Carolina, USA","[-84.3219475, 33.752879, -75.40012, 36.588118]",Feature,3b98b02fba3f9753,North Carolina,admin
+1016,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+1017,United States,US,"Glenvar Heights, FL","[-80.334426, 25.690519, -80.292923, 25.733912]",Feature,f546db03397f6e09,Glenvar Heights,city
+1018,Japan,JP,"Setagaya-ku, Tokyo","[139.582428, 35.590036, 139.686603, 35.682992]",Feature,1b0cfebe3424e14f,Setagaya-ku,city
+1019,Malaysia,MY,"Kuala Lumpur City, Kuala Lumpur Federal Territory","[101.6682318, 3.1049064, 101.7423782, 3.1921549]",Feature,7b02fbddf4d9f2c6,Kuala Lumpur City,city
+1020,United States,US,"Oakland, CA","[-122.34266, 37.699279, -122.114711, 37.8847092]",Feature,ab2f2fac83aa388d,Oakland,city
+1021,United Kingdom,GB,"Oldham, England","[-2.185708, 53.492866, -2.048031, 53.592865]",Feature,3b4abe7dce81813a,Oldham,city
+1022,United States,US,"Illinois, USA","[-91.51308, 36.970298, -87.019935, 42.508303]",Feature,f54a2170ff4b15f7,Illinois,admin
+1023,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+1024,Nigeria,NG,"Minna, Nigeria","[6.5013564, 9.5637137, 6.5841138, 9.6760284]",Feature,01e40dfa286fa1f3,Minna,city
+1025,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+1026,United Kingdom,GB,"East Midlands, England","[-2.03410488116464, 51.9772264213839, 0.357994000542651, 53.6163564980205]",Feature,50f2d0272381533f,East Midlands,admin
+1027,United States,US,"Las Vegas, NV","[-115.384091, 36.129459, -115.062159, 36.336371]",Feature,5c2b5e46ab891f07,Las Vegas,city
+1028,France,FR,"Taillecavat, France","[0.129197, 44.6318749, 0.183039, 44.6689769]",Feature,7bcba76a9c4bb737,Taillecavat,city
+1029,United States,US,"Indiana, USA","[-88.097892, 37.771743, -84.78458, 41.761368]",Feature,1010ecfa7d3a40f8,Indiana,admin
+1030,Kuwait,KW,"Hawalli, Kuwait","[48.0002193, 29.3216733, 48.0395003, 29.3494216]",Feature,00b273622599b40e,Hawalli,city
+1031,United States,US,"Hendersonville, NC","[-82.546102, 35.288621, -82.400904, 35.388843]",Feature,a6a4cafbb59f548b,Hendersonville,city
+1032,Colombia,CO,"Santa Marta, Colombia","[-74.2422984564063, 10.7982489953454, -73.6123448206194, 11.3486757767071]",Feature,00082d21223f8397,Santa Marta,city
+1033,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1034,United States,US,"Kentucky, USA","[-89.57151, 36.497129, -81.964971, 39.147359]",Feature,6ffcf3b0b904bbcb,Kentucky,admin
+1035,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1036,United States,US,"Eastvale, CA","[-117.6110675, 33.9251972, -117.549003, 34.03349]",Feature,007b3322101aab55,Eastvale,city
+1037,United States,US,"Alaska, USA","[-179.231086, 51.175093, 179.859685, 71.434357]",Feature,07179f4fe0500a32,Alaska,admin
+1038,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+1039,Pakistan,PK,"Gilgit-Baltistan, Pakistan","[72.5294659, 34.5158348, 77.8377882, 37.07827]",Feature,0087215c443ec302,Gilgit-Baltistan,admin
+1040,United States,US,"Boca Raton, FL","[-80.2039913, 26.320692, -80.065981, 26.427259]",Feature,d1cd39353c51904d,Boca Raton,city
+1041,United States,US,"Nebraska, USA","[-104.053515, 39.9997506, -95.30829, 43.001708]",Feature,ac9b9070f6d17a9a,Nebraska,admin
+1042,Nigeria,NG,"Ilaro, Nigeria","[2.9851468, 6.873271, 3.0294981, 6.9095086]",Feature,012dd0d926e885d0,Ilaro,city
+1043,United States,US,"Wolfdale, PA","[-80.335379, 40.187737, -80.264229, 40.2174159]",Feature,01db229e66fb6080,Wolfdale,city
+1044,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+1045,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1046,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+1047,United States,US,"Omaha, NE","[-96.234587, 41.175884, -95.872275, 41.375558]",Feature,a84b808ce3f11719,Omaha,city
+1048,United States,US,"Montgomery, AL","[-86.418059, 32.2845933, -86.071398, 32.443697]",Feature,7f061ded71fdc974,Montgomery,city
+1049,United States,US,"Crestwood, IL","[-87.7628283, 41.631296, -87.709889, 41.661958]",Feature,0335b0e33f0fb9cf,Crestwood,city
+1050,United States,US,"Memphis, TN","[-90.135782, 34.994192, -89.708276, 35.2728491]",Feature,f995a9bd45d4a867,Memphis,city
+1051,United States,US,"Kalamazoo, MI","[-85.649602, 42.215555, -85.481775, 42.365493]",Feature,413ef5a0d23bfe4f,Kalamazoo,city
+1052,United Kingdom,GB,"Sheffield, England","[-1.573648, 53.309898, -1.325576, 53.4564311]",Feature,07e9c7d1954fff64,Sheffield,city
+1053,United States,US,"Croton-on-Hudson, NY","[-73.946553, 41.168161, -73.847928, 41.334491]",Feature,01b828da4311466f,Croton-on-Hudson,city
+1054,Canada,CA,"Charlottetown, Prince Edward Island","[-63.196592, 46.217197, -63.073864, 46.306243]",Feature,4b3d1118aaf39b1f,Charlottetown,city
+1055,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1056,United Kingdom,GB,"Manchester, England","[-2.319934, 53.343623, -2.147026, 53.5702824]",Feature,315b740b108481f6,Manchester,city
+1057,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1058,South Africa,ZA,"Cape Town, South Africa","[18.3180332, -34.35839, 18.6600898, -33.8849254]",Feature,8b9ec16fdc0d7e55,Cape Town,city
+1059,Canada,CA,"Wilmot, Ontario","[-80.79609, 43.310982, -80.503633, 43.479747]",Feature,51fa1a6f3ba74ba9,Wilmot,city
+1060,United Kingdom,GB,"Watford, East","[-0.4444586, 51.6322356, -0.340092, 51.703921]",Feature,4f854c83732cf4f5,Watford,city
+1061,United States,US,"Tucson, AZ","[-111.083219, 32.057802, -110.747928, 32.320979]",Feature,013379ee5729a5e6,Tucson,city
+1062,India,IN,"Mathura, India","[77.338937, 27.233441, 77.848381, 27.644705]",Feature,7e76692dbc228fbe,Mathura,city
+1063,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+1064,United Arab Emirates,AE,"Abu Dhabi, United Arab Emirates","[51.2938738, 22.6261387, 56.0175464, 25.1639588]",Feature,00f24ae701a1207b,Abu Dhabi,admin
+1065,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+1066,United States,US,"Wyoming, USA","[-111.056888, 40.994746, -104.052236, 45.005904]",Feature,5669366953047e51,Wyoming,admin
+1067,United Kingdom,GB,"South Shore, England","[-3.058866, 53.7728959, -2.985392, 53.826807]",Feature,519618c33762168f,South Shore,city
+1068,Republic of the Philippines,PH,"Manila City, National Capital Region","[120.9416422, 14.5438774, 121.0263307, 14.6390361]",Feature,01bb53b81ba40196,Manila City,city
+1069,United States,US,"Eureka, KS","[-96.306036, 37.813107, -96.270671, 37.839419]",Feature,4fad60ac94100d13,Eureka,city
+1070,Canada,CA,"Langley, British Columbia","[-122.680109, 49.081959, -122.637216, 49.116318]",Feature,1825c9e5b0366d7e,Langley,city
+1071,United Kingdom,GB,"Bridlington, England","[-0.2267817, 54.069696, -0.1694361, 54.1099955]",Feature,776d711e926d055c,Bridlington,city
+1072,United States,US,"North Kingstown, RI","[-71.553828, 41.5000704, -71.402717, 41.654647]",Feature,008ee33667496868,North Kingstown,city
+1073,United States,US,"Marblehead, MA","[-70.897823, 42.478356, -70.830385, 42.521575]",Feature,5fe64d30e1253d98,Marblehead,city
+1074,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+1075,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+1076,Uganda,UG,"Soroti, Uganda","[32.9483319, 1.2826619, 33.8108163, 2.0199692]",Feature,0102ed48501a4846,Soroti,admin
+1077,United States,US,"Oakland, CA","[-122.34266, 37.699279, -122.114711, 37.8847092]",Feature,ab2f2fac83aa388d,Oakland,city
+1078,United States,US,"Webster City, IA","[-93.860053, 42.445382, -93.77922, 42.482354]",Feature,f4f6f5b9d8437108,Webster City,city
+1079,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+1080,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+1081,United Kingdom,GB,"Worthing, England","[-0.4430536, 50.804766, -0.3370275, 50.857913]",Feature,4577634556a78466,Worthing,city
+1082,United States,US,"Lincoln, CA","[-121.340149, 38.839106, -121.222598, 38.911502]",Feature,0026c52b089aab9c,Lincoln,city
+1083,United Kingdom,GB,"Sevenoaks, South East","[0.143499, 51.251336, 0.228904, 51.3060958]",Feature,5376859fe6806d5b,Sevenoaks,city
+1084,United States,US,"Virginia, USA","[-83.67529, 36.540739, -75.16644, 39.466012]",Feature,5635c19c2b5078d1,Virginia,admin
+1085,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+1086,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+1087,Australia,AU,"Sydney, New South Wales","[150.520928608, -34.1183470085, 151.343020992, -33.578140996]",Feature,0073b76548e5984f,Sydney,city
+1088,United States,US,"Athens, GA","[-83.5218655, 33.877554, -83.277693, 34.035213]",Feature,01f9c9fd7bb1aa6b,Athens,city
+1089,New Zealand,NZ,"Hurunui District, New Zealand","[171.882388, -43.246986, 173.501195, -42.08785]",Feature,0101fb7205872d25,Hurunui District,city
+1090,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+1091,United Kingdom,GB,"Merthyr Tydfil, Wales","[-3.4263222, 51.733092, -3.33849, 51.7777002]",Feature,10a9976fe9dec853,Merthyr Tydfil,city
+1092,United Arab Emirates,AE,"Dubai, United Arab Emirates","[54.8939725, 24.6182526, 56.2083722, 25.3686719]",Feature,001907e868d06e24,Dubai,admin
+1093,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1094,United States,US,"Boston, MA","[-71.191421, 42.227797, -70.986004, 42.399542]",Feature,67b98f17fdcf20be,Boston,city
+1095,United States,US,"Blacksburg, VA","[-80.47611, 37.185195, -80.381618, 37.273387]",Feature,820684853e0f1eb6,Blacksburg,city
+1096,India,IN,"Maharashtra, India","[72.64293, 15.606794, 80.899558, 22.029028]",Feature,4c6bf2b7c14c8f88,Maharashtra,admin
+1097,Turkey,TR,"İstanbul, Türkiye","[28.6321043, 40.8027337, 29.3783413, 41.2399073]",Feature,5e02a0f0d91c76d2,İstanbul,city
+1098,India,IN,"Saidapet, India","[80.0765774, 13.0248559, 80.3329248, 13.2340278]",Feature,6d86f195adaa42fb,Saidapet,city
+1099,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1100,United States,US,"Reston, VA","[-77.393246, 38.90861, -77.304868, 39.002993]",Feature,ec212eb1116b92e2,Reston,city
+1101,United States,US,"Scranton, PA","[-75.719751, 41.369442, -75.617789, 41.469377]",Feature,8e67b1e195b34dd8,Scranton,city
+1102,United States,US,"Arizona, USA","[-114.818269, 31.3322463, -109.0451527, 37.004261]",Feature,a612c69b44b2e5da,Arizona,admin
+1103,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+1104,United Kingdom,GB,"Harrow, London","[-0.403988, 51.55309, -0.270137, 51.6385757]",Feature,4f060a213b552e5f,Harrow,city
+1105,United States,US,"Indianapolis, IN","[-86.348441, 39.631677, -85.937404, 39.927448]",Feature,018929347840059e,Indianapolis,city
+1106,United States,US,"Plant City, FL","[-82.2679052, 27.930926, -82.0556591, 28.0934082]",Feature,5a5924d17d76eb63,Plant City,city
+1107,Ireland,IE,"Waterford, Ireland","[-8.1621983, 51.9376708, -6.9501039, 52.3643272]",Feature,0f30361084eecfc3,Waterford,city
+1108,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+1109,United States,US,"Raleigh, NC","[-78.818343, 35.7158045, -78.497331, 35.9721579]",Feature,161d2f18e3a0445a,Raleigh,city
+1110,Kenya,KE,"Nairobi, Kenya","[36.6645733, -1.3890532, 37.0626672, -1.1606735]",Feature,01e215db7136a37e,Nairobi,city
+1111,United Kingdom,GB,"Luton, England","[-0.5049646, 51.8612268, -0.35971, 51.92766]",Feature,5568fcf97199b753,Luton,city
+1112,South Africa,ZA,South Africa,"[16.4475932, -34.8342468, 32.8922934, -22.1247236]",Feature,dd9c0d7d7e07eb49,South Africa,country
+1113,United States,US,"Lancaster, CA","[-118.280798, 34.6309445, -118.045755, 34.740709]",Feature,04291149b14feb9d,Lancaster,city
+1114,United Kingdom,GB,"Blakedown, England","[-2.187663, 52.3967831, -2.165522, 52.408313]",Feature,364e470771809289,Blakedown,city
+1115,United States,US,Yale University School of Medicine,"[-72.93396534252085, 41.3025858638261, -72.93396534252085, 41.3025858638261]",Feature,07d9db77e6087001,Yale University School of Medicine,poi
+1116,United States,US,"Paloma Creek South, TX","[-96.954509, 33.202712, -96.925277, 33.221018]",Feature,003ef58a3a36eab7,Paloma Creek South,city
+1117,Ireland,IE,"Dun Laoghaire-Rathdown, Ireland","[-6.2820377, 53.1992829, -6.0667589, 53.315283]",Feature,723427e351a01e72,Dun Laoghaire-Rathdown,city
+1118,United States,US,"Fort Lauderdale, FL","[-80.20811, 26.080935, -80.0902351, 26.219801]",Feature,6c686af766d8429c,Fort Lauderdale,city
+1119,United States,US,"Cumberland, RI","[-71.452348, 41.8932, -71.381201, 42.0185171]",Feature,012bca3721fb4c4e,Cumberland,city
+1120,United Kingdom,GB,"Stockport, England","[-2.215529, 53.374446, -2.095752, 53.454771]",Feature,55274794874e883d,Stockport,city
+1121,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+1122,Uganda,UG,No Idea Where I am,"[32.527967916823634, 0.30157773283523726, 32.527967916823634, 0.30157773283523726]",Feature,08f7789b04940000,No Idea Where I am,poi
+1123,India,IN,"Indore, India","[75.690789, 22.525584, 76.245579, 22.817381]",Feature,4a00f902bee39847,Indore,city
+1124,United States,US,"McGraw, NY","[-76.12246, 42.584129, -76.070658, 42.601553]",Feature,5baf5ffca1b0b430,McGraw,city
+1125,United States,US,"Carencro, LA","[-92.097811, 30.283043, -91.984697, 30.381743]",Feature,018e8da25b391f33,Carencro,city
+1126,United States,US,"California, USA","[-124.482003, 32.528832, -114.131212, 42.009519]",Feature,fbd6d2f5a4e4a15e,California,admin
+1127,United States,US,"Miami, FL","[-80.321683, 25.7090404, -80.144974, 25.855667]",Feature,04cb31bae3b3af93,Miami,city
+1128,United States,US,"San Marcos, TX","[-97.993537, 29.840708, -97.8768464, 29.950505]",Feature,f95ca607d76de8c6,San Marcos,city
+1129,United States,US,"Breckenridge, CO","[-106.0747, 39.460879, -105.997415, 39.550435]",Feature,00401a907e12e1b1,Breckenridge,city
+1130,Ireland,IE,"Mayo, Ireland","[-10.2576986, 53.4726027, -8.5829761, 54.345902]",Feature,1147023b519541b3,Mayo,city
+1131,United Kingdom,GB,"East Kilbride, Scotland","[-4.2384726, 55.7339596, -4.1344466, 55.7849667]",Feature,38eabeb176f29378,East Kilbride,city
+1132,United States,US,"Hoboken, NJ","[-74.044085, 40.7336, -74.020431, 40.7591594]",Feature,e9143a85705b4d40,Hoboken,city
+1133,United Kingdom,GB,"Leicester, England","[-1.215135, 52.580667, -1.046205, 52.67186]",Feature,38d67cacb385e69d,Leicester,city
+1134,United Kingdom,GB,"Wales, United Kingdom","[-5.35340678071236, 51.3787780012005, -2.64982707940341, 53.4300939018827]",Feature,208d28e57bdc12e9,Wales,admin
+1135,United Kingdom,GB,"Benfleet, East","[0.5430409, 51.5357382, 0.6336531, 51.5782643]",Feature,2555a4499b86b4ca,Benfleet,city
+1136,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+1137,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1138,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+1139,Canada,CA,"Mississauga, Ontario","[-79.810142, 43.373074, -79.422004, 43.737414]",Feature,5c43cbdfce4d3247,Mississauga,city
+1140,India,IN,The Mondo Kitchen,"[72.529755, 23.090792, 72.529755, 23.090792]",Feature,0eb532556794e000,The Mondo Kitchen,poi
+1141,United States,US,"Montrose, CO","[-107.92169, 38.431887, -107.81179, 38.538998]",Feature,b0bf852909173f4f,Montrose,city
+1142,United States,US,"Lithonia, GA","[-84.11573, 33.705395, -84.09358, 33.720095]",Feature,e0ad92755a73534e,Lithonia,city
+1143,United States,US,"Atlanta, GA","[-84.576827, 33.6475029, -84.289385, 33.8868859]",Feature,8173485c72e78ca5,Atlanta,city
+1144,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+1145,United States,US,"Hollywood, FL","[-80.248975, 25.9862279, -80.107808, 26.093132]",Feature,2bc7c264a080898b,Hollywood,city
+1146,United Kingdom,GB,"Ryde, England","[-1.197164, 50.713982, -1.1300446, 50.7397217]",Feature,2222f3f9b834c622,Ryde,city
+1147,United Kingdom,GB,"Manchester, England","[-2.319934, 53.343623, -2.147026, 53.5702824]",Feature,315b740b108481f6,Manchester,city
+1148,Kuwait,KW,"Wafra Farms, Kuwait","[47.942108, 28.5288174, 48.2335351, 28.6855434]",Feature,00c3611f43175244,Wafra Farms,city
+1149,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+1150,South Africa,ZA,"Strand, South Africa","[18.8100222, -34.1709801, 18.9287187, -34.0904234]",Feature,00d8d13a6f5fcedf,Strand,city
+1151,Australia,AU,"Queenstown, Tasmania","[145.531578016, -42.105916499, 145.567932992, -42.0686576655]",Feature,012df72174d5c6cd,Queenstown,city
+1152,United States,US,"San Rafael, CA","[-122.592422, 37.9426184, -122.449033, 38.030467]",Feature,322ed6e7cc8ff243,San Rafael,city
+1153,United Kingdom,GB,"Leicester, England","[-1.215135, 52.580667, -1.046205, 52.67186]",Feature,38d67cacb385e69d,Leicester,city
+1154,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1155,Cyprus,CY,Cyprus,"[32.2692963, 34.562636, 34.6063538, 35.7087061]",Feature,f0af1239cbebb474,Cyprus,country
+1156,United Kingdom,GB,"Carlton, England","[-1.167773, 52.9539959, -1.060424, 53.0166558]",Feature,4e5d1e9bc3c752b2,Carlton,city
+1157,United States,US,"Stockton, CA","[-121.4168716, 37.883347, -121.183979, 38.078305]",Feature,d98e7ce217ade2c5,Stockton,city
+1158,India,IN,"Danapur, India","[84.686271, 25.2014, 85.117254, 25.731555]",Feature,4252c86e1ec33df8,Danapur,city
+1159,Ghana,GH,"Tema, Ghana","[-0.0817078, 5.613502, 0.0437508, 5.7925418]",Feature,01a4a1e153e55b20,Tema,city
+1160,United States,US,"Arizona, USA","[-114.818269, 31.3322463, -109.0451527, 37.004261]",Feature,a612c69b44b2e5da,Arizona,admin
+1161,Canada,CA,"New Westminster, British Columbia","[-122.9599826, 49.175445, -122.8750325, 49.238058]",Feature,33de55bc584a42ec,New Westminster,city
+1162,United States,US,"Fort Wayne, IN","[-85.336872, 40.95926, -85.003231, 41.214574]",Feature,3877d6c867447819,Fort Wayne,city
+1163,The Netherlands,NL,"Schouwen-Duiveland, Nederland","[3.6121135, 51.5936267, 4.2025742, 51.7737598]",Feature,e8d00a976e828d9c,Schouwen-Duiveland,city
+1164,United States,US,United States,"[-179.231086, 13.182335, 179.859685, 71.434357]",Feature,96683cc9126741d1,United States,country
+1165,United States,US,"Nashville, TN","[-87.022482, 35.9945681, -86.560616, 36.405448]",Feature,00ab941b685334e3,Nashville,city
+1166,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+1167,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1168,United States,US,"Glenelg, MD","[-77.040627, 39.25716, -76.9593736, 39.29567]",Feature,000ed08e728381a3,Glenelg,city
+1169,United Kingdom,GB,"Camden Town, London","[-0.213503, 51.512805, -0.105303, 51.572068]",Feature,5de8cffc145c486b,Camden Town,city
+1170,Sweden,SE,"Uppsala, Sverige","[17.0800502, 59.7306898, 18.4732382, 60.1861074]",Feature,3c665585145f2949,Uppsala,city
+1171,United States,US,"Texas, USA","[-106.645646, 25.837092, -93.508131, 36.500695]",Feature,e0060cda70f5f341,Texas,admin
+1172,United States,US,"Sewell, NJ","[-75.200058, 39.7408097, -75.113886, 39.7980795]",Feature,009ac5e95507578f,Sewell,city
+1173,United States,US,"Fayetteville, NC","[-79.195342, 34.936245, -78.808883, 35.173009]",Feature,4548df3d99bb4891,Fayetteville,city
+1174,Pakistan,PK,"Peshawar, Pakistan","[71.414192, 33.911362, 71.66967, 34.050221]",Feature,003faa615af988db,Peshawar,city
+1175,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+1176,South Africa,ZA,"Kloof, South Africa","[30.7630204, -29.8228068, 30.8910911, -29.7185395]",Feature,08cf288c7b54f834,Kloof,city
+1177,Ghana,GH,"Kumasi, Ghana","[-1.710074, 6.5962859, -1.5143701, 6.7909677]",Feature,009b4bcc18019797,Kumasi,city
+1178,United States,US,"Boca Raton, FL","[-80.2039913, 26.320692, -80.065981, 26.427259]",Feature,d1cd39353c51904d,Boca Raton,city
+1179,India,IN,"Hyderabad, India","[78.3897718, 17.3013989, 78.5404168, 17.4759]",Feature,243cc16f6417a167,Hyderabad,city
+1180,United States,US,"Virginia Beach, VA","[-76.22808, 36.672684, -75.9118121, 36.932399]",Feature,84229b03659050aa,Virginia Beach,city
+1181,India,IN,"Bengaluru, India","[77.373474, 12.919037, 77.739371, 13.231381]",Feature,1b8680cd52a711cb,Bengaluru,city
+1182,United States,US,"Lithia Springs, GA","[-84.696305, 33.753937, -84.593547, 33.805711]",Feature,00c4104a33f2c868,Lithia Springs,city
+1183,United Kingdom,GB,"Tadley, England","[-1.186695, 51.3400172, -1.11581, 51.3615785]",Feature,310d8a479fd28b18,Tadley,city
+1184,United States,US,"White Marsh, MD","[-76.500885, 39.3598869, -76.389052, 39.4155451]",Feature,3d15925dbe48f7e6,White Marsh,city
+1185,United States,US,"Minneapolis, MN","[-93.329515, 44.889964, -93.194578, 45.051257]",Feature,8e9665cec9370f0f,Minneapolis,city
+1186,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+1187,United States,US,"Downey, CA","[-118.1704294, 33.90245, -118.090423, 33.972897]",Feature,07dccb89e8f25a8f,Downey,city
+1188,Canada,CA,"Vaughan, Ontario","[-79.711527, 43.749761, -79.420056, 43.924448]",Feature,78d9392bd6093265,Vaughan,city
+1189,Democratic Republic of Congo,CD,Democratic Republic of Congo,"[12.2013992, -13.4587898, 31.3062178, 5.3920348]",Feature,17cd9eb8e2c0152c,Democratic Republic of Congo,country
+1190,United Kingdom,GB,"Portsmouth, England","[-1.117912, 50.778429, -1.0160589, 50.8593]",Feature,511655fc081bb251,Portsmouth,city
+1191,United States,US,"Pittsburgh, PA","[-80.095586, 40.3615796, -79.8657933, 40.501198]",Feature,946ccd22e1c9cda1,Pittsburgh,city
+1192,United States,US,"Gunnison, CO","[-106.950952, 38.529693, -106.911464, 38.5590314]",Feature,8899e0de6c2f215b,Gunnison,city
+1193,United Kingdom,GB,"Bournemouth, England","[-1.93759, 50.7095004, -1.7676241, 50.775036]",Feature,7de31e05e99a00f8,Bournemouth,city
+1194,United Kingdom,GB,"Tamworth, England","[-1.730633, 52.5931818, -1.636163, 52.6510365]",Feature,091ee820fa97bbe0,Tamworth,city
+1195,Kenya,KE,"Rift Valley, Kenya","[33.9879342, -3.1894778, 38.0789993, 4.631608]",Feature,01065a114b362889,Rift Valley,admin
+1196,United Kingdom,GB,"Brent, London","[-0.336055, 51.527592, -0.1902264, 51.602799]",Feature,5524b796309058b5,Brent,city
+1197,Kuwait,KW,Al-wafrah | الوفره,"[48.064601185437034, 28.56277372756138, 48.064601185437034, 28.56277372756138]",Feature,07d9f72fab081001,Al-wafrah | الوفره,poi
+1198,Pakistan,PK,"Punjab, Pakistan","[69.328873, 27.708226, 75.382124, 34.019989]",Feature,00cc0d5640394308,Punjab,admin
+1199,United Kingdom,GB,"Halifax, England","[-1.9355331, 53.696167, -1.844528, 53.762979]",Feature,7a998c6fcc0867eb,Halifax,city
+1200,United Kingdom,GB,"Lewes, England","[-0.016438, 50.860155, 0.0283583, 50.886605]",Feature,7fb4198323f50ed3,Lewes,city
+1201,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1202,United Kingdom,GB,"Saltdean, England","[-0.07983, 50.7973841, -0.0197297, 50.823247]",Feature,5233a0505ea12908,Saltdean,city
+1203,United States,US,"El Cerrito, CA","[-122.323541, 37.8978198, -122.2808753, 37.9392837]",Feature,6407905aa8012e44,El Cerrito,city
+1204,Canada,CA,"Winnipeg, Manitoba","[-97.350366, 49.713679, -96.954987, 49.993932]",Feature,0811cf61cd9ea52f,Winnipeg,city
+1205,Kingdom of Saudi Arabia,SA,مستشفى الملك عبد العزيز التخصصي King Abdul Aziz Specialist Hospita l,"[40.373082854919794, 21.268435349251135, 40.373082854919794, 21.268435349251135]",Feature,07d9dfa62a486001,مستشفى الملك عبد العزيز التخصصي King Abdul Aziz Specialist Hospita l,poi
+1206,United States,US,"Salt Lake City, UT","[-112.0383105, 40.6998952, -111.795741, 40.8317151]",Feature,bd7c511e9f8bc5da,Salt Lake City,city
+1207,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1208,Italy,IT,"Livorno, Tuscany","[9.8882033, 43.4197448, 10.4194563, 43.5957744]",Feature,4a9a3fb69bbdce92,Livorno,city
+1209,United States,US,"Carney, MD","[-76.568646, 39.379544, -76.498934, 39.44386]",Feature,186f9ea317217282,Carney,city
+1210,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+1211,France,FR,"Vénosc, France","[6.0696955, 44.9307006, 6.1600832, 45.0081976]",Feature,79b3e8b72e52cb1f,Vénosc,city
+1212,United States,US,"Chicago, IL","[-87.940033, 41.644102, -87.523993, 42.0230669]",Feature,1d9a5370a355ab0c,Chicago,city
+1213,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+1214,United Kingdom,GB,"Glasgow, Scotland","[-4.3932845, 55.796184, -4.0902182, 55.9204214]",Feature,791e00bcadc4615f,Glasgow,city
+1215,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+1216,United States,US,"Prairie du Sac, WI","[-89.7539667, 43.2818994, -89.7150625, 43.3003418]",Feature,7877b7cacbcfb0fd,Prairie du Sac,city
+1217,Italy,IT,"Nettuno, Lazio","[12.6180039, 41.4084135, 12.7777683, 41.5397433]",Feature,3b18bc168701faee,Nettuno,city
+1218,United States,US,"Helotes, TX","[-98.7647213, 29.4955658, -98.661448, 29.604798]",Feature,00a1b28251c671b8,Helotes,city
+1219,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1220,United States,US,"Atlanta, GA","[-84.576827, 33.6475029, -84.289385, 33.8868859]",Feature,8173485c72e78ca5,Atlanta,city
+1221,Maldives,MV,Maldives Ports Limited (MPL),"[73.50655773644046, 4.179340220283059, 73.50655773644046, 4.179340220283059]",Feature,07d9dcf242883003,Maldives Ports Limited (MPL),poi
+1222,Canada,CA,"Essa, Ontario","[-79.922967, 44.162288, -79.7046, 44.362016]",Feature,4ee01b9baecf09e7,Essa,city
+1223,United States,US,"Miami, FL","[-80.321683, 25.7090404, -80.144974, 25.855667]",Feature,04cb31bae3b3af93,Miami,city
+1224,New Zealand,NZ,"Auckland, New Zealand","[174.161834, -37.292621, 175.550653, -35.898837]",Feature,0022e3c837579650,Auckland,city
+1225,Swaziland,SZ,Swaziland,"[30.7909049, -27.3174176, 32.134741, -25.7179398]",Feature,02127c41c77b85ad,Swaziland,country
+1226,United States,US,"Austin, TX","[-97.928935, 30.127892, -97.5805133, 30.5187994]",Feature,c3f37afa9efcf94b,Austin,city
+1227,Brazil,BR,"Crato, Brasil","[-39.6047548, -7.468234, -39.337277, -7.002382]",Feature,04279e8b69ef0f08,Crato,city
+1228,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1229,United States,US,"Cypress Lake, FL","[-81.918368, 26.5204575, -81.8853524, 26.5570084]",Feature,eedce445ae8552f6,Cypress Lake,city
+1230,United States,US,NIH Building 10 - Warren H. Magnuson Clinical Center,"[-77.10466861724854, 39.001776793522026, -77.10466861724854, 39.001776793522026]",Feature,07d9e3f040484000,NIH Building 10 - Warren H. Magnuson Clinical Center,poi
+1231,Canada,CA,"Calgary, Alberta","[-114.3160379, 50.84278, -113.859664, 51.212548]",Feature,53504716d445dcad,Calgary,city
+1232,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+1233,India,IN,"Kota, India","[75.623599, 24.768468, 76.095887, 25.2755]",Feature,5bf2bd72e6a63541,Kota,city
+1234,United States,US,"San Antonio, TX","[-98.778559, 29.141956, -98.302744, 29.693046]",Feature,3df4f427b5a60fea,San Antonio,city
+1235,United States,US,"Wisconsin, USA","[-92.889433, 42.491921, -86.24955, 47.309715]",Feature,7dc5c6d3bfb10ccc,Wisconsin,admin
+1236,India,IN,"Ghaziabad, India","[77.20469, 28.620877, 77.641989, 28.926259]",Feature,4d51b7ea67b6f64b,Ghaziabad,city
+1237,United States,US,"Gifford, FL","[-80.463058, 27.6491165, -80.383135, 27.696888]",Feature,b2acf3dee65e2eaa,Gifford,city
+1238,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+1239,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+1240,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1241,United States,US,"Eden Isle, LA","[-89.856898, 30.209913, -89.769089, 30.245171]",Feature,1f6092ed87417db4,Eden Isle,city
+1242,Pakistan,PK,"Karachi, Pakistan","[66.95121, 24.802239, 67.133179, 25.007912]",Feature,01aadce76841e2c5,Karachi,city
+1243,United States,US,Post Towers,"[-74.01393080353552, 40.70905497136342, -74.01393080353552, 40.70905497136342]",Feature,07d9f0e523082000,Post Towers,poi
+1244,United States,US,"Buena Park, CA","[-118.037391, 33.809829, -117.9759226, 33.895642]",Feature,0b93bc6a33455615,Buena Park,city
+1245,Canada,CA,"Montréal, Québec","[-73.972965, 45.410095, -73.473085, 45.705566]",Feature,36775d842cbec509,Montréal,city
+1246,United States,US,"Harvey, IL","[-87.6850281, 41.5790282, -87.621483, 41.630059]",Feature,6b029ca925395e1b,Harvey,city
+1247,Spain,ES,"Roquetas de Mar, Spain","[-2.6648892, 36.6981084, -2.5525127, 36.8566371]",Feature,5e998eaa02492b79,Roquetas de Mar,city
+1248,United Kingdom,GB,"Springfield, Scotland","[-3.072376, 56.293113, -3.055131, 56.298829]",Feature,3926ac469a5f53b3,Springfield,city
+1249,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1250,United States,US,"Linton Hall, VA","[-77.622033, 38.7170968, -77.534718, 38.78464]",Feature,000ab6b1404a5cd8,Linton Hall,city
+1251,United States,US,"San Bruno, CA","[-122.473595, 37.6009088, -122.399963, 37.641689]",Feature,5358b6f78dd95ef6,San Bruno,city
+1252,India,IN,Dargah Ajmer Sharif,"[74.6284717362124, 26.45799406956343, 74.6284717362124, 26.45799406956343]",Feature,07d9dce33c083000,Dargah Ajmer Sharif,poi
+1253,Canada,CA,Hamilton,"[-80.248423, 43.050553, -79.51179, 43.476547]",Feature,005fdace18162fbc,Hamilton,admin
+1254,United States,US,"San Diego, CA","[-117.282538, 32.53962, -116.9274403, 33.0804044]",Feature,a592bd6ceb1319f7,San Diego,city
+1255,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+1256,United States,US,"Newport Beach, CA","[-117.9582193, 33.563618, -117.789845, 33.671658]",Feature,0ce4c27ce26030aa,Newport Beach,city
+1257,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1258,United Kingdom,GB,"Shrewsbury, England","[-2.814317, 52.683871, -2.709902, 52.7465945]",Feature,13fca037125aec34,Shrewsbury,city
+1259,United Kingdom,GB,"Redcar, England","[-1.201408, 54.526592, -1.039002, 54.62756]",Feature,46f2260bd86a6f0c,Redcar,city
+1260,United States,US,"Pine Bluff, AR","[-92.0929936, 34.1405491, -91.94191, 34.268184]",Feature,4fa26750e4d5620c,Pine Bluff,city
+1261,United States,US,"Gilbert, AZ","[-111.842244, 33.204608, -111.634889, 33.3858215]",Feature,006b48995ede9bcc,Gilbert,city
+1262,United States,US,"Lancaster, TX","[-96.823367, 32.559599, -96.747695, 32.649973]",Feature,0557e33c3bef86ac,Lancaster,city
+1263,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+1264,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+1265,Canada,CA,"Mascouche, Québec","[-73.700164, 45.716103, -73.526116, 45.821364]",Feature,370e82cb8dff6189,Mascouche,city
+1266,United States,US,"Houston, TX","[-95.823268, 29.522325, -95.069705, 30.1546646]",Feature,1c69a67ad480e1b1,Houston,city
+1267,South Africa,ZA,"Roodepoort, South Africa","[27.771294, -26.2656942, 27.9772907, -26.0197293]",Feature,1744381d2805a216,Roodepoort,city
+1268,United Kingdom,GB,"Barnet, London","[-0.2925791, 51.555179, -0.12921, 51.6685903]",Feature,7ef79c5ab17d518c,Barnet,city
+1269,United States,US,"Norwalk, CA","[-118.111506, 33.8803098, -118.041985, 33.934191]",Feature,0706a21788cadb8d,Norwalk,city
+1270,India,IN,"Haora, India","[88.014244, 22.396021, 88.421124, 23.02195]",Feature,3135579c0c859cee,Haora,city
+1271,United States,US,"Boca Raton, FL","[-80.2039913, 26.320692, -80.065981, 26.427259]",Feature,d1cd39353c51904d,Boca Raton,city
+1272,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+1273,United States,US,"Gibsonia, PA","[-79.99332, 40.613839, -79.92379, 40.673479]",Feature,01c7560173aa82a9,Gibsonia,city
+1274,United Kingdom,GB,"Camberwell, London","[-0.1114755, 51.4194247, -0.0297308, 51.509947]",Feature,7f55e839e1715da2,Camberwell,city
+1275,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+1276,United Kingdom,GB,"Skelmorlie, Scotland","[-4.891452, 55.855307, -4.8742122, 55.8750673]",Feature,22732368ebc0b7d2,Skelmorlie,city
+1277,India,IN,"Mumbai, India","[72.74484, 18.845343, 73.003648, 19.502937]",Feature,7929cea6bd5b32bd,Mumbai,city
+1278,United Kingdom,GB,"Hutton Rudby, England","[-1.2895241, 54.4434144, -1.272544, 54.4534434]",Feature,5a0c733479664b1f,Hutton Rudby,city
+1279,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+1280,United Kingdom,GB,"Enfield, London","[-0.18576, 51.604519, -0.0125671, 51.686032]",Feature,537b8c5518197832,Enfield,city
+1281,United Kingdom,GB,"Meare, England","[-2.79788, 51.168431, -2.776044, 51.172939]",Feature,145d42d920278f46,Meare,city
+1282,United Kingdom,GB,"Ochiltree, Scotland","[-4.4012307, 55.458794, -4.35601, 55.4872188]",Feature,39938b09c82ef783,Ochiltree,city
+1283,United States,US,"Belchertown, MA","[-72.458658, 42.209061, -72.34519, 42.322844]",Feature,00662b940d72f7fd,Belchertown,city
+1284,United Kingdom,GB,"Bangor, Wales","[-4.176128, 53.2046503, -4.1070571, 53.236817]",Feature,715bb453cc3ee060,Bangor,city
+1285,United States,US,"New Orleans, LA","[-90.137908, 29.889574, -89.884108, 30.075628]",Feature,dd3b100831dd1763,New Orleans,city
+1286,United Kingdom,GB,"Skelmorlie, Scotland","[-4.891452, 55.855307, -4.8742122, 55.8750673]",Feature,22732368ebc0b7d2,Skelmorlie,city
+1287,Nigeria,NG,"Lagos, Nigeria","[3.2131467, 6.4278856, 3.4640641, 6.5583389]",Feature,00817d75276a95cf,Lagos,city
+1288,United States,US,"Orlando, FL","[-81.507905, 28.3882177, -81.2276403, 28.615139]",Feature,55b4f9e5c516e0b6,Orlando,city
+1289,United Kingdom,GB,"Ryde, England","[-1.197164, 50.713982, -1.1300446, 50.7397217]",Feature,2222f3f9b834c622,Ryde,city
+1290,United States,US,"West Springfield, MA","[-72.694753, 42.084506, -72.590245, 42.163061]",Feature,ff074e1ff3c7a5c8,West Springfield,city
+1291,United States,US,"Nashville, TN","[-87.022482, 35.9945681, -86.560616, 36.405448]",Feature,00ab941b685334e3,Nashville,city
+1292,United Kingdom,GB,"Glasgow, Scotland","[-4.3932845, 55.796184, -4.0902182, 55.9204214]",Feature,791e00bcadc4615f,Glasgow,city
+1293,Canada,CA,"Toronto, Ontario","[-79.639319, 43.403221, -78.90582, 43.855401]",Feature,3797791ff9c0e4c6,Toronto,city
+1294,Australia,AU,"Roma, Queensland","[148.745207136, -26.6041579415, 148.862570016, -26.5196842035]",Feature,017172392d60ea32,Roma,city
+1295,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1296,United States,US,"Oxford, MS","[-89.571643, 34.321375, -89.495897, 34.387965]",Feature,b86cd6ef7a54d640,Oxford,city
+1297,India,IN,"Chennai, India","[80.183081, 12.965942, 80.252142, 13.060495]",Feature,38ac902a28ee86da,Chennai,city
+1298,Italy,IT,"Impruneta, Toscana","[11.206123, 43.6572867, 11.3087821, 43.7348757]",Feature,1d048bec95b92189,Impruneta,city
+1299,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+1300,United States,US,"Georgia, USA","[-85.605166, 30.355644, -80.742567, 35.000771]",Feature,7142eb97ae21e839,Georgia,admin
+1301,United States,US,"San Jose, CA","[-122.035311, 37.193164, -121.71215, 37.469154]",Feature,7d62cffe6f98f349,San Jose,city
+1302,United States,US,"Manchester, MO","[-90.533436, 38.547211, -90.465006, 38.607713]",Feature,5574b7b200b9c750,Manchester,city
+1303,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1304,United Kingdom,GB,"Northwich, England","[-2.570863, 53.2364774, -2.47076, 53.281203]",Feature,700261a746f3cd96,Northwich,city
+1305,United States,US,"St Paul, MN","[-93.207783, 44.8907521, -93.003514, 44.992279]",Feature,60e2c37980197297,St Paul,city
+1306,United States,US,"Florida, USA","[-87.634643, 24.396308, -79.974307, 31.001056]",Feature,4ec01c9dbc693497,Florida,admin
+1307,Canada,CA,"Strathmore, Alberta","[-113.446914, 51.015315, -113.353796, 51.0744755]",Feature,6a6fe0b30c8d83f5,Strathmore,city
+1308,United States,US,"Fort Myers, FL","[-81.895498, 26.564625, -81.750855, 26.679673]",Feature,711c63250a2df503,Fort Myers,city
+1309,United States,US,"Los Angeles, CA","[-118.668404, 33.704538, -118.155409, 34.337041]",Feature,3b77caf94bfc81fe,Los Angeles,city
+1310,Pakistan,PK,"Sindh, Pakistan","[66.654132, 23.703272, 71.124185, 28.529442]",Feature,0120615153b21abb,Sindh,admin
+1311,United States,US,"Frisco, TX","[-96.937783, 33.081206, -96.7327146, 33.219073]",Feature,00c3e46c3d0cac08,Frisco,city
+1312,Ghana,GH,"Accra, Ghana","[-0.3470252, 5.51713, -0.0215619, 5.7292666]",Feature,003e299707d0375b,Accra,city
+1313,United States,US,"Minneapolis, MN","[-93.329515, 44.889964, -93.194578, 45.051257]",Feature,8e9665cec9370f0f,Minneapolis,city
+1314,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1315,United States,US,"Maryland, USA","[-79.487651, 37.886607, -74.986286, 39.723622]",Feature,dea1eac2d7ef8878,Maryland,admin
+1316,Canada,CA,"Guelph, Ontario","[-80.326879, 43.473802, -80.153377, 43.594596]",Feature,2740624a2d391c5c,Guelph,city
+1317,United Kingdom,GB,"Welwyn Garden City, East","[-0.234756, 51.778888, -0.149997, 51.835367]",Feature,5a4c1fe01bde5c4a,Welwyn Garden City,city
+1318,Jamaica,JM,Jamaica,"[-78.3688776, 17.7057855, -76.183028, 18.5250291]",Feature,d66ca907ceb62690,Jamaica,country
+1319,United States,US,"Philadelphia, PA","[-75.280284, 39.871811, -74.955712, 40.13792]",Feature,e4a0d228eb6be76b,Philadelphia,city
+1320,Kenya,KE,"Nairobi, Kenya","[36.6645733, -1.3890532, 37.0626672, -1.1606735]",Feature,01e215db7136a37e,Nairobi,city
+1321,India,IN,"Asansol, India","[86.796486, 23.571204, 87.231485, 23.881691]",Feature,54611adec7be7fe6,Asansol,city
+1322,United States,US,"Phoenix, AZ","[-112.3239143, 33.29026, -111.9254391, 33.8154652]",Feature,5c62ffb0f0f3479d,Phoenix,city
+1323,Australia,AU,"Melbourne, Victoria","[144.593741856, -38.433859306, 145.512528832, -37.5112737225]",Feature,01864a8a64df9dc4,Melbourne,city
+1324,Somalia,SO,Somalia,"[40.9886682, -1.6603619, 51.4154958, 11.9880685]",Feature,2e09439cac5c7992,Somalia,country
+1325,United States,US,"Bedford, TX","[-97.1686653, 32.822102, -97.099752, 32.8677644]",Feature,78454026903c03e4,Bedford,city
+1326,United Kingdom,GB,"Hutton Rudby, England","[-1.2895241, 54.4434144, -1.272544, 54.4534434]",Feature,5a0c733479664b1f,Hutton Rudby,city
+1327,Italy,IT,"Livorno, Tuscany","[9.8882033, 43.4197448, 10.4194563, 43.5957744]",Feature,4a9a3fb69bbdce92,Livorno,city
+1328,Nigeria,NG,"Jos, Nigeria","[8.8337107, 9.8581086, 8.9389277, 9.9674885]",Feature,012d63e97ff5a7b5,Jos,city
+1329,United States,US,"Waynesboro, VA","[-78.951336, 38.042755, -78.855374, 38.099106]",Feature,ae182036ae63c038,Waynesboro,city
+1330,United States,US,"Parkersburg, WV","[-81.580862, 39.2031728, -81.502547, 39.3093247]",Feature,03834989f9b9479f,Parkersburg,city
+1331,Australia,AU,"Victoria, Australia","[140.961681976682, -39.1591895298437, 149.976679007421, -33.9804255797424]",Feature,0ec0c4fcacbd0083,Victoria,admin
+1332,United Kingdom,GB,"Cheadle, England","[-2.2470769, 53.327794, -2.10089, 53.407347]",Feature,667ae7bc747238c4,Cheadle,city
+1333,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+1334,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1335,United Kingdom,GB,"London, England","[-0.510364798739281, 51.2867019756122, 0.334043461659515, 51.6918240878432]",Feature,5d838f7a011f4a2d,London,admin
+1336,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+1337,United States,US,"Queens, NY","[-73.962582, 40.541722, -73.699793, 40.8000371]",Feature,00c39537733fa112,Queens,city
+1338,United States,US,"Austin, TX","[-97.928935, 30.127892, -97.5805133, 30.5187994]",Feature,c3f37afa9efcf94b,Austin,city
+1339,United States,US,"Federal Way, WA","[-122.419282, 47.257187, -122.24964, 47.357949]",Feature,f3f3f3c8dbba3fd3,Federal Way,city
+1340,Kenya,KE,"Nairobi, Kenya","[36.6645733, -1.3890532, 37.0626672, -1.1606735]",Feature,01e215db7136a37e,Nairobi,city
+1341,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1342,United Kingdom,GB,"Harwich, England","[1.220058, 51.913809, 1.2918076, 51.9497095]",Feature,002a96ba1ee5045e,Harwich,city
+1343,United Kingdom,GB,"Glasgow, Scotland","[-4.3932845, 55.796184, -4.0902182, 55.9204214]",Feature,791e00bcadc4615f,Glasgow,city
+1344,United Kingdom,GB,"Wandsworth, London","[-0.259465, 51.417277, -0.127974, 51.486036]",Feature,460c5314e8a33c64,Wandsworth,city
+1345,United States,US,"Dallas, TX","[-96.977527, 32.620678, -96.54598, 33.019039]",Feature,18810aa5b43e76c7,Dallas,city
+1346,United States,US,"Rolling Hills Estates, CA","[-118.393557, 33.757089, -118.315755, 33.795907]",Feature,48acdded0b77e66f,Rolling Hills Estates,city
+1347,United States,US,"Brooklyn, NY","[-74.041878, 40.570842, -73.855673, 40.739434]",Feature,011add077f4d2da3,Brooklyn,city
+1348,United States,US,"Cedarwood Park, NJ","[-74.160521, 40.018539, -74.104529, 40.060658]",Feature,01d06fb5242190dd,Cedarwood Park,city
+1349,United States,US,"Atlanta, GA","[-84.576827, 33.6475029, -84.289385, 33.8868859]",Feature,8173485c72e78ca5,Atlanta,city
+1350,United Kingdom,GB,"Bradford, England","[-1.837304, 53.773415, -1.696336, 53.858452]",Feature,584d81d6e854d368,Bradford,city
+1351,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1352,United States,US,"Whitemarsh Island, GA","[-81.048291, 32.007649, -80.98204, 32.061641]",Feature,c3c1b969568bf8a7,Whitemarsh Island,city
+1353,Mexico,MX,"Benito Juárez, Distrito Federal","[-99.1919955, 19.357102, -99.1309649, 19.4041235]",Feature,7d93122509633720,Benito Juárez,city
+1354,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
+1355,United Kingdom,GB,"Northwich, England","[-2.570863, 53.2364774, -2.47076, 53.281203]",Feature,700261a746f3cd96,Northwich,city
+1356,Ghana,GH,"Northern, Ghana","[-2.7800369, 7.948081, 0.5639305, 10.7133502]",Feature,013de76b1499381f,Northern,admin
+1357,India,IN,"New Delhi, India","[76.84252, 28.397657, 77.347652, 28.879322]",Feature,317fcc4b21a604d5,New Delhi,city
+1358,United States,US,"Fountain Hills, AZ","[-111.7834, 33.567198, -111.698379, 33.640623]",Feature,5faafada28b440c3,Fountain Hills,city
+1359,United Kingdom,GB,"Saint Albans, East","[-0.368615, 51.729772, -0.272269, 51.775108]",Feature,536ff8978c2dae6b,Saint Albans,city
+1360,Nigeria,NG,"Ikeja, Nigeria","[3.198942, 6.4826762, 3.43719, 6.6985461]",Feature,01eddd9d0dbec2c8,Ikeja,city
+1361,United States,US,"Corona, CA","[-117.672915, 33.802102, -117.498401, 33.916084]",Feature,5e4b6834e36e68fa,Corona,city
+1362,United States,US,"Buffalo, NY","[-78.912276, 42.826008, -78.79485, 42.966451]",Feature,a307591cd0413588,Buffalo,city
+1363,Nigeria,NG,"Kwara, Nigeria","[2.7286875, 7.9862746, 6.2165322, 10.1837937]",Feature,00c822476a63c75b,Kwara,admin
+1364,United Kingdom,GB,"Glasgow, Scotland","[-4.3932845, 55.796184, -4.0902182, 55.9204214]",Feature,791e00bcadc4615f,Glasgow,city
+1365,United States,US,"Manhattan, NY","[-74.026675, 40.683935, -73.910408, 40.877483]",Feature,01a9a39529b27f36,Manhattan,city
+1366,United States,US,"Nevada, USA","[-120.00574, 35.002086, -114.039649, 42.002208]",Feature,d374fb61a20fb74f,Nevada,admin
+1367,United States,US,"Denver, CO","[-105.109815, 39.614151, -104.734372, 39.812975]",Feature,b49b3053b5c25bf5,Denver,city
+1368,United States,US,"Charlotte, NC","[-81.046876, 35.001706, -80.646695, 35.416412]",Feature,512a8a4a4c4b4be0,Charlotte,city
